@@ -1,0 +1,24 @@
+{
+  "name": "tokyo-sake-calendar",
+  "version": "1.0.0",
+  "description": "Calendar generation for Tokyo Art Beat event list ([en](https://www.tokyoartbeat.com/en/events/orderBy/latest), [jp](https://www.tokyoartbeat.com/events/orderBy/latest))",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "regenerate": "node src/index.js > TSC_EVENTS.ics",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkjohnson/tokyo-sake-calendar.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/gkjohnson/tokyo-sake-calendar/issues"
+  },
+  "homepage": "https://github.com/gkjohnson/tokyo-sake-calendar#readme",
+  "dependencies": {
+    "ics": "^3.2.0",
+    "jsdom": "^24.0.0"
+  }
+}
