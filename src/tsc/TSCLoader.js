@@ -25,6 +25,7 @@ function elementToEvent( el ) {
     const dateEl = el.querySelector( '.bl_media_date' );
     const titleEl = el.querySelector( '.bl_media_ttl' );
     const locationEl = el.querySelector( '.bl_media_area' );
+    const anchor = el.querySelector( 'a' );
 
     let [ startDate, endDate ] = dateEl.innerHTML.split( '〜' );
     endDate = endDate || startDate;
@@ -40,6 +41,7 @@ function elementToEvent( el ) {
 
     res.description = `**Description**\nRuns from ${ startDate } to ${ endDate }'\n\n`;
     res.description += `**Address**\n${ place }\n\n`;
+    res.description += `**Link**\n${ anchor.href }`;
     res.location = place;
 
     return res;
@@ -71,7 +73,7 @@ export class TSCLoader {
 
             const dom = new JSDOM( text );
             return [ ...dom.window.document
-                .querySelectorAll( '.bl_media_body' ) ]
+                .querySelectorAll( '.bl_event_item' ) ]
                 .map( el => elementToEvent( el ) );
 
         } );
