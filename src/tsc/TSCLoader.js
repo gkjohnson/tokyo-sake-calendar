@@ -13,7 +13,7 @@ function createDateString( date ) {
 function parseStringToDate( str ) {
 
     const dateStrings = str.match( /(\d{4})[^\d]+(\d{1,2})[^\d]+(\d{1,2})/ );
-    dateStrings.pop();
+    dateStrings.shift();
 
     const [ year, month, day ] = dateStrings.map( d => parseInt( d ) );
     return new Date( year, month, day );
