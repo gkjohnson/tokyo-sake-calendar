@@ -27,11 +27,11 @@ function elementToEvent( el ) {
     const locationEl = el.querySelector( '.bl_media_area' );
     const anchor = el.querySelector( 'a' );
 
-    let [ startDate, endDate ] = dateEl.innerHTML.split( '〜' ).map( s => s.trim() );
+    let [ startDate, endDate ] = dateEl.textContent.split( '〜' ).map( s => s.trim() );
     endDate = endDate || startDate;
 
-    const title = titleEl.innerHTML;
-    const place = locationEl.innerHTML.replace( /[\n\r]+/g, ', ' );
+    const title = titleEl.textContent;
+    const place = locationEl.textContent.replace( /[\n\r]+/g, ', ' );
 
     let description = '';
     if ( endDate === startDate ) {
@@ -51,7 +51,7 @@ function elementToEvent( el ) {
     res.allDay = true;
 
     res.description = `**Description**\n${ description }\n\n`;
-    res.description += `**Address**\n${ place }\n\n`;
+    res.description += `**Address**\n${ locationEl.textContent.replace( /[\n\r]+/g, '\n' ) }\n\n`;
     res.description += `**Link**\n${ anchor.href }`;
     res.location = place;
 
