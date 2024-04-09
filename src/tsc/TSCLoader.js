@@ -27,11 +27,22 @@ function elementToEvent( el ) {
     const locationEl = el.querySelector( '.bl_media_area' );
     const anchor = el.querySelector( 'a' );
 
-    let [ startDate, endDate ] = dateEl.innerHTML.split( '〜' );
+    let [ startDate, endDate ] = dateEl.innerHTML.split( '〜' ).map( s => s.trim() );
     endDate = endDate || startDate;
 
     const title = titleEl.innerHTML;
     const place = locationEl.innerHTML.replace( /[\n\r]+/g, ', ' );
+
+    let description = '';
+    if ( endDate === startDate ) {
+
+        description = `On ${ startDate }`;
+
+    } else {
+
+        description = `Runs from ${ startDate } to ${ endDate }`;
+
+    }
 
     const res = new CalendarEvent();
     res.subject = title + ' Sake Event';
@@ -39,7 +50,7 @@ function elementToEvent( el ) {
     res.endTime = parseStringToDate( endDate );
     res.allDay = true;
 
-    res.description = `**Description**\nRuns from ${ startDate } to ${ endDate }'\n\n`;
+    res.description = `**Description**\n${ description }\n\n`;
     res.description += `**Address**\n${ place }\n\n`;
     res.description += `**Link**\n${ anchor.href }`;
     res.location = place;
