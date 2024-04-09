@@ -30,7 +30,7 @@ function elementToEvent( el ) {
     let [ startDate, endDate ] = dateEl.innerHTML.split( '〜' );
     endDate = endDate || startDate;
 
-    const title = titleEl.innerText;
+    const title = titleEl.innerHTML;
     const place = locationEl.innerHTML.replace( /[\n\r]+/g, ', ' );
 
     const res = new CalendarEvent();
