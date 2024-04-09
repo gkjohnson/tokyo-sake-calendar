@@ -1,5 +1,5 @@
 import { ICSGenerator } from './core/ICSGenerator.js';
-import { TSCLoader } from './tab/TSCLoader.js';
+import { TSCLoader } from './tsc/TSCLoader.js';
 
 ( async () => {
 
