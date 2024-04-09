@@ -59,8 +59,6 @@ export class TSCLoader {
         const date_from = createDateString( startDate );
         const date_to = createDateString( endDate );
 
-        console.log( search_year, date_from, date_to );
-
         return fetch( 'https://tokyo-sake-calendar.com/event', {
             method: 'POST',
             headers: {
@@ -72,8 +70,6 @@ export class TSCLoader {
         .then( text => {
 
             const dom = new JSDOM( text );
-            console.log( dom.window.document
-                .querySelectorAll( '.bl_media_body' ).length )
             return [ ...dom.window.document
                 .querySelectorAll( '.bl_media_body' ) ]
                 .map( el => elementToEvent( el ) );
