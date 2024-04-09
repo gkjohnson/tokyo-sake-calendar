@@ -16,7 +16,7 @@ function parseStringToDate( str ) {
     dateStrings.shift();
 
     const [ year, month, day ] = dateStrings.map( d => parseInt( d ) );
-    return new Date( year, month, day );
+    return new Date( year, month - 1, day );
 
 }
 
