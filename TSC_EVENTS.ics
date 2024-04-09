@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:H5qSC82PrItHFVfSOdA40
+UID:n5CFNyf6weQZ8vWxpWmAB
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920902
 DESCRIPTION:**Description**\nRuns from \n2024年2月9日（金） to \n2024年2月9日（金）'\n\
 	n**Address**\n東京都文京区湯島1-2-12<br>\, ライオンズプラザお茶の水 名酒センター\n\n**Link**\nhttps:
@@ -15,9 +15,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年2月9日（金） to \n2024年2�
 LOCATION:東京都文京区湯島1-2-12<br>\, ライオンズプラザお茶の水 名酒センター
 END:VEVENT
 BEGIN:VEVENT
-UID:E9dfhUIpKCQd8QOQ-Avxf
+UID:g1pq4K4AxJsQ6DmjH6ZvM
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920902
 DESCRIPTION:**Description**\nRuns from \n2024年2月10日（土） to \n2024年2月10日（土）'\
 	n\n**Address**\n埼玉県川越市新富町1-22<br>\, 川越プリンスホテル ダイヤモンドホール\n\n**Link**\nhttps
@@ -25,9 +25,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年2月10日（土） to \n2024年2
 LOCATION:埼玉県川越市新富町1-22<br>\, 川越プリンスホテル ダイヤモンドホール
 END:VEVENT
 BEGIN:VEVENT
-UID:EG2zsCKi6zJyfOw6xn6dN
+UID:p9HelGfEZsSJYA0DESMGV
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920902
 DESCRIPTION:**Description**\nRuns from \n2024年2月10日（土） to \n2024年2月29日（木）'\
 	n\n**Address**\n東京都中央区築地6-26-1<br>\, 魚河岸小田原橋棟3F 築地 角打ち旅手箱\n\n**Link**\nhtt
@@ -35,9 +35,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年2月10日（土） to \n2024年2
 LOCATION:東京都中央区築地6-26-1<br>\, 魚河岸小田原橋棟3F 築地 角打ち旅手箱
 END:VEVENT
 BEGIN:VEVENT
-UID:D5sD8Xq5qGEWK3fb0XIT8
+UID:VEJ1sAks7hWUXUuMXSgjI
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920902
 DESCRIPTION:**Description**\nRuns from \n2024年2月16日（金） to \n2024年2月18日（日）'\
 	n\n**Address**\n東京都中央区銀座1-6-10<br>\, 銀座上一ビルディング 広島ブランドショップTAU\n\n**Link**\
@@ -45,9 +45,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年2月16日（金） to \n2024年2
 LOCATION:東京都中央区銀座1-6-10<br>\, 銀座上一ビルディング 広島ブランドショップTAU
 END:VEVENT
 BEGIN:VEVENT
-UID:y5C_WtsA0dEIIdp_8v1oM
+UID:E9cZsykHoMWYSoQm6dfVu
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920902
 DESCRIPTION:**Description**\nRuns from \n2024年2月17日（土） to \n2024年2月17日（土）'\
 	n\n**Address**\n中央区日本橋茅場町1-8-1<br>\, FinGATE KAYABA（フィンゲートカヤバ）\n\n**Link**
@@ -55,9 +55,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年2月17日（土） to \n2024年2
 LOCATION:中央区日本橋茅場町1-8-1<br>\, FinGATE KAYABA（フィンゲートカヤバ）
 END:VEVENT
 BEGIN:VEVENT
-UID:gQp1lE78kwohoNRwkgjhd
+UID:tvQYtw8ptuBYPFBzBQj5z
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920902
 DESCRIPTION:**Description**\nRuns from \n2024年2月24日（土） to \n2024年2月24日（土）'\
 	n\n**Address**\n東京都港区西新橋1-6-15<br>\, 日本酒造虎ノ門ビル1階　日本の酒情報館\n\n**Link**\nhttp
@@ -65,9 +65,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年2月24日（土） to \n2024年2
 LOCATION:東京都港区西新橋1-6-15<br>\, 日本酒造虎ノ門ビル1階　日本の酒情報館
 END:VEVENT
 BEGIN:VEVENT
-UID:Uk1h17jYRP_sKcN-Nf4Q0
+UID:A5o3GNiekXZh1EBsDN-F4
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月8日（金） to \n2024年3月8日（金）'\n\
 	n**Address**\n東京都中央区日本橋室町1-2-6<br>\, 日本橋大栄ビル1階 日本橋とやま館トヤマバー\n\n**Link**\nh
@@ -75,9 +75,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月8日（金） to \n2024年3�
 LOCATION:東京都中央区日本橋室町1-2-6<br>\, 日本橋大栄ビル1階 日本橋とやま館トヤマバー
 END:VEVENT
 BEGIN:VEVENT
-UID:bsrix-GP-oegMIYMKgy5W
+UID:o-TtE0WKfCSDgXsYXBtcA
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月8日（金） to \n2024年3月13日（水）'\n
 	\n**Address**\n東京都文京区後楽1-3-61<br>\, 東京ドームシティ　プリズムホール\n\n**Link**\nhttps://
@@ -85,9 +85,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月8日（金） to \n2024年3�
 LOCATION:東京都文京区後楽1-3-61<br>\, 東京ドームシティ　プリズムホール
 END:VEVENT
 BEGIN:VEVENT
-UID:DuyqGeqEuK6QlNUlJMTB1
+UID:LLNwUW2XDRMgAMNFaDe6g
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月8日（金） to \n2024年3月10日（日）'\n
 	\n**Address**\n東京都中央区銀座1-6-10<br>\, ひろしまブランドショップTAU\n\n**Link**\nhttps://t
@@ -95,9 +95,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月8日（金） to \n2024年3�
 LOCATION:東京都中央区銀座1-6-10<br>\, ひろしまブランドショップTAU
 END:VEVENT
 BEGIN:VEVENT
-UID:JSZ1CqDHnej_leM8QIGVp
+UID:tmuZsut40-TgDUA92yD6N
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月10日（日） to \n2024年3月10日（日）'\
 	n\n**Address**\n東京都品川区中延3-7-10<br>\, 中延商店街 シュウ・サケ・コーポレーション\n\n**Link**\nht
@@ -105,9 +105,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月10日（日） to \n2024年3
 LOCATION:東京都品川区中延3-7-10<br>\, 中延商店街 シュウ・サケ・コーポレーション
 END:VEVENT
 BEGIN:VEVENT
-UID:SBUofjHEIE0QI-qAGdp1f
+UID:sPYvhRI4VXV0OfYFMjXoq
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月16日（土） to \n2024年3月17日（日）'\
 	n\n**Address**\n東京都台東区上野3-26<br>\, 御徒町南口駅前広場（おかちまちパンダ広場）\n\n**Link**\nhttp
@@ -115,9 +115,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月16日（土） to \n2024年3
 LOCATION:東京都台東区上野3-26<br>\, 御徒町南口駅前広場（おかちまちパンダ広場）
 END:VEVENT
 BEGIN:VEVENT
-UID:qgYCWIkclOw7B9hzTWA0w
+UID:kDPDkdjI8Ky7OsQ0yfqFU
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月16日（土） to \n2024年3月16日（土）'\
 	n\n**Address**\n神奈川県川崎市川崎区小川町4-1<br>\, 銀座方舟 川崎ラチッタデッラ店\n\n**Link**\nhttps:
@@ -125,9 +125,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月16日（土） to \n2024年3
 LOCATION:神奈川県川崎市川崎区小川町4-1<br>\, 銀座方舟 川崎ラチッタデッラ店
 END:VEVENT
 BEGIN:VEVENT
-UID:0X0WIpSF5QOkkBCiEvlGC
+UID:oeT8Q33V3gsoFKKk3dH6L
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月22日（金） to \n2024年3月23日（土）'\
 	n\n**Address**\n東京都中央区日本橋兜町7-1<br>\, KABUTO ONE\n\n**Link**\nhttps://tokyo
@@ -135,9 +135,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月22日（金） to \n2024年3
 LOCATION:東京都中央区日本橋兜町7-1<br>\, KABUTO ONE
 END:VEVENT
 BEGIN:VEVENT
-UID:tB2El8u1-sFKrUAVjBKra
+UID:_aoGcUyWVTFDo0Ot-mdaV
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月23日（土） to \n2024年3月23日（土）'\
 	n\n**Address**\n東京都中央区日本橋大伝馬町1-1<br>\, BnA_WALL - Art Hotel in Tokyo\n\n**
@@ -145,9 +145,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月23日（土） to \n2024年3
 LOCATION:東京都中央区日本橋大伝馬町1-1<br>\, BnA_WALL - Art Hotel in Tokyo
 END:VEVENT
 BEGIN:VEVENT
-UID:lh3sj08m9KaFmBlu6-rWs
+UID:lJMD00wR4NzEA_WG1ZxEl
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月23日（土） to \n2024年3月24日（日）'\
 	n\n**Address**\n東京都墨田区押上1-1-2<br>\, 東京スカイツリータウンⓇ4F スカイアリーナ\n\n**Link**\nht
@@ -155,9 +155,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月23日（土） to \n2024年3
 LOCATION:東京都墨田区押上1-1-2<br>\, 東京スカイツリータウンⓇ4F スカイアリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:gf7ziYjQW8UoDCWc94FSW
+UID:PxryBsTIM6kUIb-q1RRN-
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月29日（金） to \n2024年3月29日（金）'\
 	n\n**Address**\n東京都渋谷区渋谷3-21-3<br>\, SHIBUYA STREAM HOTEL 4F<br>\, Bar&amp
@@ -167,9 +167,9 @@ LOCATION:東京都渋谷区渋谷3-21-3<br>\, SHIBUYA STREAM HOTEL 4F<br>\, Bar&
 	「TORRENT」
 END:VEVENT
 BEGIN:VEVENT
-UID:A2Zm5ShvijlMESU8r3DSX
+UID:dgxkbIW1rda90IzFW5xQ8
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月30日（土） to \n2024年3月31日（日）'\
 	n\n**Address**\n東京都目黒区上目黒2-1-1<br>\, 中目黒GTタワー前広場\n\n**Link**\nhttps://toky
@@ -177,9 +177,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月30日（土） to \n2024年3
 LOCATION:東京都目黒区上目黒2-1-1<br>\, 中目黒GTタワー前広場
 END:VEVENT
 BEGIN:VEVENT
-UID:jOZvhksw43aBuKDUox6K-
+UID:5Ti_X2RIVdLMNcpiFxYZA
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920903
 DESCRIPTION:**Description**\nRuns from \n2024年3月30日（土） to \n2024年3月31日（日）'\
 	n\n**Address**\n東京都新宿区西新宿2-6-1<br>\, 新宿住友ビル 三角広場\n\n**Link**\nhttps://toky
@@ -187,9 +187,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年3月30日（土） to \n2024年3
 LOCATION:東京都新宿区西新宿2-6-1<br>\, 新宿住友ビル 三角広場
 END:VEVENT
 BEGIN:VEVENT
-UID:p8i-lrEYhikzKSM7_EJE8
+UID:OYGq8JIwQ2KhDqqYVQFD6
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月6日（土） to \n2024年4月7日（日）'\n\
 	n**Address**\n東京都目黒区三田3-1-13<br>\, 恵比寿ガーデンプレイス センター広場\n\n**Link**\nhttps:/
@@ -197,9 +197,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年4月6日（土） to \n2024年4�
 LOCATION:東京都目黒区三田3-1-13<br>\, 恵比寿ガーデンプレイス センター広場
 END:VEVENT
 BEGIN:VEVENT
-UID:jNkacZ5lOfMF9w3jSZyOU
+UID:RfIF9xf-3lRQqGLMxJwqM
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月6日（土） to \n2024年4月7日（日）'\n\
 	n**Address**\n埼玉県さいたま市中央区新都心10<br>\, さいたまスーパーアリーナ けやきひろば\n\n**Link**\nhttp
@@ -207,9 +207,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年4月6日（土） to \n2024年4�
 LOCATION:埼玉県さいたま市中央区新都心10<br>\, さいたまスーパーアリーナ けやきひろば
 END:VEVENT
 BEGIN:VEVENT
-UID:NsqGN8Z3BNF63h5mewg7O
+UID:Iy9F6oQS93nbqeXQLs1CU
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月6日（土） to \n2024年4月6日（土）'\n\
 	n**Address**\n東京都千代田区神田神保町1-15-3<br>\, サンサイド神保町3F　PASSAGE bis!\n\n**Link**
@@ -217,9 +217,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年4月6日（土） to \n2024年4�
 LOCATION:東京都千代田区神田神保町1-15-3<br>\, サンサイド神保町3F　PASSAGE bis!
 END:VEVENT
 BEGIN:VEVENT
-UID:DTXCQtriCPKqe-y7E0AdX
+UID:MIVlawOOxdZUTMxDCIV9T
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月7日（日） to \n2024年4月7日（日）'\n\
 	n**Address**\n東京都台東区浅草2-6-7<br>\, 東京楽天地浅草ビル前広場\n\n**Link**\nhttps://tokyo-
@@ -227,9 +227,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年4月7日（日） to \n2024年4�
 LOCATION:東京都台東区浅草2-6-7<br>\, 東京楽天地浅草ビル前広場
 END:VEVENT
 BEGIN:VEVENT
-UID:Hm36xlSFh3cKEnNteGE06
+UID:3fUtOiW6UkvlfbDJYM6VO
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月10日（水） to \n2024年4月10日（水）'\
 	n\n**Address**\n東京都品川区北品川5-5-15<br>\, 大崎ブライトコアホール 3F\n\n**Link**\nhttps://
@@ -237,9 +237,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年4月10日（水） to \n2024年4
 LOCATION:東京都品川区北品川5-5-15<br>\, 大崎ブライトコアホール 3F
 END:VEVENT
 BEGIN:VEVENT
-UID:Hfl3chwLOKTi4ZJx9s9z0
+UID:BJK6M9a4PREBF740aURsK
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月13日（土） to \n2024年4月13日（土）'\
 	n\n**Address**\n東京都中央区日本橋人形町2-20-3<br>\, 新川屋 佐々木酒店\n\n**Link**\nhttps://to
@@ -247,9 +247,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年4月13日（土） to \n2024年4
 LOCATION:東京都中央区日本橋人形町2-20-3<br>\, 新川屋 佐々木酒店
 END:VEVENT
 BEGIN:VEVENT
-UID:3dwUHWvzoMic0MziXeded
+UID:OfDtw9mMxWi6b91yRuq0W
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月13日（土） to \n2024年4月13日（土）'\
 	n\n**Address**\n東京都渋谷区桜丘町26-1<br>\, セルリアンタワー東急ホテル 2F<br>\, 日本料理「Japanese C
@@ -258,9 +258,9 @@ LOCATION:東京都渋谷区桜丘町26-1<br>\, セルリアンタワー東急ホ
 	丘」
 END:VEVENT
 BEGIN:VEVENT
-UID:zphMb5wUvaC9MHFKAMWey
+UID:HzBZTOEN8YFhx_pGflbVY
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月13日（土） to \n2024年4月13日（土）'\
 	n\n**Address**\n東京都文京区小石川2-4-16<br>\, Everyone’s Castle\n\n**Link**\nhttps
@@ -268,9 +268,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年4月13日（土） to \n2024年4
 LOCATION:東京都文京区小石川2-4-16<br>\, Everyone’s Castle
 END:VEVENT
 BEGIN:VEVENT
-UID:1nFj0ZQMiuzCAUh6rCc4N
+UID:Jv-q9O2pCK1E4eMj8kJSn
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月18日（木） to \n2024年4月29日（月）'\
 	n\n**Address**\n東京都港区六本木6-9-1<br>\, 六本木ヒルズアリーナ\n\n**Link**\nhttps://tokyo-
@@ -278,9 +278,9 @@ DESCRIPTION:**Description**\nRuns from \n2024年4月18日（木） to \n2024年4
 LOCATION:東京都港区六本木6-9-1<br>\, 六本木ヒルズアリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:uAxvJy9cRoi1bbJfAurvw
+UID:L9rLGCL-QIuSh4-Y6UNiU
 SUMMARY:undefined Sake Event
-DTSTAMP:20240409T081103Z
+DTSTAMP:20240409T081204Z
 DTSTART;VALUE=DATE:21920904
 DESCRIPTION:**Description**\nRuns from \n2024年4月20日（土） to \n2024年4月20日（土）'\
 	n\n**Address**\n東京都千代田区有楽町2-10-1<br>\, 東京交通会館12F ダイヤモンドホール\n\n**Link**\nht
