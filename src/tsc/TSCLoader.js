@@ -4,8 +4,8 @@ import { CalendarEvent } from '../core/CalendarEvent.js'
 function createDateString( date ) {
 
     const y = date.getFullYear();
-    const m = date.getMonth().toString().padStart( 2, '0' );
-    const d = date.getDay().toString().padStart( 2, '0' );
+    const m = ( date.getMonth() + 1 ).toString().padStart( 2, '0' );
+    const d = '01';
     return `${ y }-${ m }-${ d }`;
 
 }
@@ -64,9 +64,11 @@ export class TSCLoader {
     async load() {
 
         const monthTime = 31 * 24 * 60 * 60 * 1e3;
-        const now = Date.now();
-        const startDate = new Date( now - monthTime );
-        const endDate = new Date( now + 2 * monthTime );
+        const now = new Date();
+        const startDate = new Date();
+        startDate.setMonth( now.getMonth() - 1 );
+        const endDate = new Date();
+        endDate.setMonth( now.getMonth() + 3 );
 
         const search_year = startDate.getFullYear().toString();
         const date_from = createDateString( startDate );
