@@ -63,7 +63,6 @@ export class TSCLoader {
 
     async load() {
 
-        const monthTime = 31 * 24 * 60 * 60 * 1e3;
         const now = new Date();
         const startDate = new Date();
         startDate.setMonth( now.getMonth() - 1 );
