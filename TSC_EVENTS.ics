@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:yQDZ0KjptFAd1AbCuWBcQ
+UID:OgGhn8AnkIJC6luvDj_pt
 SUMMARY:【父の日】〈YUEN 広島呉〉送料無料キャンペーン Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240607
 DESCRIPTION:**Description**\nRuns from 2024年6月7日（金） to 2024年6月9日（日）\n\n**Ad
 	dress**\n【キャンペーンコード】\nHIROSHIMA\n\n**Link**\nhttps://tokyo-sake-calendar.c
@@ -15,111 +15,9 @@ DESCRIPTION:**Description**\nRuns from 2024年6月7日（金） to 2024年6月9�
 LOCATION:【キャンペーンコード】\, HIROSHIMA
 END:VEVENT
 BEGIN:VEVENT
-UID:nLxRGcCBMHmRYJHPpyBb4
-SUMMARY:SAKE JAPAN WEEK『 春の埼酒祭り 』 Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240508
-DESCRIPTION:**Description**\nOn 2024年5月8日（水）\n\n**Address**\n東京都千代田区丸の内2-7-
-	2 \nKITTE B1F 東京シティアイ"\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/
-	202405-005/
-LOCATION:東京都千代田区丸の内2-7-2 \, KITTE B1F 東京シティアイ"
-END:VEVENT
-BEGIN:VEVENT
-UID:9WN-HWEALgXG9UcHN4xW4
-SUMMARY:SAKE JAPAN EXPO 2024 Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240511
-DESCRIPTION:**Description**\nRuns from 2024年5月11日（土） to 2024年5月12日（日）\n\n**
-	Address**\n東京都千代田区丸の内2-7-2 \nKITTE B1F 東京シティアイ\n\n**Link**\nhttps://tokyo-
-	sake-calendar.com/event/202405-006/
-LOCATION:東京都千代田区丸の内2-7-2 \, KITTE B1F 東京シティアイ
-END:VEVENT
-BEGIN:VEVENT
-UID:EIMuJRQU9mDAzibOFHT9c
-SUMMARY:YOMOYAMA NAGANO 2024 Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240515
-DESCRIPTION:**Description**\nOn 2024年5月15日（水）\n\n**Address**\n東京都台東区西浅草3-17
-	-1\n浅草ビューホテル\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202405-002
-	/
-LOCATION:東京都台東区西浅草3-17-1\, 浅草ビューホテル
-END:VEVENT
-BEGIN:VEVENT
-UID:qoKmixU5NVDzmP9XGA0xs
-SUMMARY:SAKE PARK 3杯 Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240517
-DESCRIPTION:**Description**\nRuns from 2024年5月17日（金） to 2024年5月19日（日）\n\n**
-	Address**\n東京都渋谷区神宮前6-20-10\nMIYASHITA PARK\n\n**Link**\nhttps://tokyo-sak
-	e-calendar.com/event/202405-001/
-LOCATION:東京都渋谷区神宮前6-20-10\, MIYASHITA PARK
-END:VEVENT
-BEGIN:VEVENT
-UID:56XP-sP-ItaIEbbSnSccK
-SUMMARY:日本酒居酒屋『虎連坊』の「蔵元の解説付き 酒肴ビュッフェ付き試飲会～初夏の酒祭り～」 Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240521
-DESCRIPTION:**Description**\nRuns from 2024年5月21日（火） to 2024年5月30日（木）\n\n**
-	Address**\n虎連坊八重洲店：\n 東京都中央区八重洲1-7-20八重洲口会館B1\n虎連坊 秋葉原店：\n 東京都千代田区外神田1-18-
-	18BiTO AKIBA PLAZA 9F\n虎連坊 大手町店：\n 東京都千代田区大手町1-5-1大手町ファーストスクエア イーストタワーB1\n
-	\n**Link**\nhttps://tokyo-sake-calendar.com/event/202405-008/
-LOCATION:虎連坊八重洲店：\,  東京都中央区八重洲1-7-20八重洲口会館B1\, 虎連坊 秋葉原店：\,  東京都千代田区外神田1-18-
-	18BiTO AKIBA PLAZA 9F\, 虎連坊 大手町店：\,  東京都千代田区大手町1-5-1大手町ファーストスクエア イーストタワーB1
-END:VEVENT
-BEGIN:VEVENT
-UID:x0djd12y9VdSC1VdlmyA9
-SUMMARY:第1回 福井酒蔵めぐりディナー L'aisance × SAKETOPIA Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240522
-DESCRIPTION:**Description**\nOn 2024年5月22日（水）\n\n**Address**\n東京都港区南青山5-4-4
-	1\nふくい南青山291 Cultive291\n\n**Link**\nhttps://tokyo-sake-calendar.com/event
-	/202405-003/
-LOCATION:東京都港区南青山5-4-41\, ふくい南青山291 Cultive291
-END:VEVENT
-BEGIN:VEVENT
-UID:IA5KEOYdvCDLI_n78yJuA
-SUMMARY:白鴻 盛川酒造（広島）の蔵元による試飲会 Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240523
-DESCRIPTION:**Description**\nRuns from 2024年5月23日（木） to 2024年5月29日（水）\n\n**
-	Address**\n東京都豊島区南池袋1-28-1\n西武池袋本店 B2F\n酒商山田 西武池袋店\n\n**Link**\nhttps://to
-	kyo-sake-calendar.com/event/202405-010/
-LOCATION:東京都豊島区南池袋1-28-1\, 西武池袋本店 B2F\, 酒商山田 西武池袋店
-END:VEVENT
-BEGIN:VEVENT
-UID:KoKC8iMuu6HXI_zB91kl3
-SUMMARY:Smile日本酒～よこはま大作戦～ Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240525
-DESCRIPTION:**Description**\nOn 2024年5月25日（土）\n\n**Address**\n神奈川県横浜市中区常盤町3
-	-25\n横浜BAYSIS\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202405-00
-	4/
-LOCATION:神奈川県横浜市中区常盤町3-25\, 横浜BAYSIS
-END:VEVENT
-BEGIN:VEVENT
-UID:dRHeNbRncYxkuln1WweHI
-SUMMARY:TOKYO SAKE BASE 〜花華果香〜 Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240525
-DESCRIPTION:**Description**\nOn 2024年5月25日（土）\n\n**Address**\n東京都中央区日本橋大伝馬町
-	1-1\nBnA_WALL - Art Hotel in Tokyo\n\n**Link**\nhttps://tokyo-sake-calenda
-	r.com/event/202405-007/
-LOCATION:東京都中央区日本橋大伝馬町1-1\, BnA_WALL - Art Hotel in Tokyo
-END:VEVENT
-BEGIN:VEVENT
-UID:zIdVZuRUr-ibJVnxNv1OW
-SUMMARY:シェア酒でシアワセ！～日本酒で5月疲れを吹き飛ばせ編～ Sake Event
-DTSTAMP:20240624T123744Z
-DTSTART;VALUE=DATE:20240531
-DESCRIPTION:**Description**\nOn 2024年5月31日（金）\n\n**Address**\n東京都中央区日本橋本町1-
-	4-12\nカネダ日本橋センタービルディング\n+NARU NIHONBASHI\n\n**Link**\nhttps://tokyo-sake-c
-	alendar.com/event/202405-009/
-LOCATION:東京都中央区日本橋本町1-4-12\, カネダ日本橋センタービルディング\, +NARU NIHONBASHI
-END:VEVENT
-BEGIN:VEVENT
-UID:uNrg0pn9F07ujp0r_4PIN
+UID:Cq1Q7sQXx1-JeMK8pLijw
 SUMMARY:Kitpasで描く世界に1本だけの日本酒ボトルセット Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240601
 DESCRIPTION:**Description**\nRuns from 2024年6月1日（土） to 2024年6月30日（日）\n\n**A
 	ddress**\n神奈川県川崎市川崎区駅前本町26-1 \nアトレ川崎3F ふるまいや　\n\n\n**Link**\nhttps://tokyo
@@ -127,9 +25,9 @@ DESCRIPTION:**Description**\nRuns from 2024年6月1日（土） to 2024年6月30
 LOCATION:神奈川県川崎市川崎区駅前本町26-1 \, アトレ川崎3F ふるまいや　\, 
 END:VEVENT
 BEGIN:VEVENT
-UID:Z8ujaoA5AcdJzlW9RG1PJ
+UID:O3uRayiOdmIo3g8eqLG3A
 SUMMARY:日本酒居酒屋『虎連坊 八重洲店』の「蔵元の解説付き 酒肴ビュッフェ付き試飲会～房州日本酒まつり～」 Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240604
 DESCRIPTION:**Description**\nOn 2024年6月4日（火）\n\n**Address**\n東京都中央区八重洲1-7-2
 	0八重洲口会館B1\n虎連坊八重洲店\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/2024
@@ -137,9 +35,9 @@ DESCRIPTION:**Description**\nOn 2024年6月4日（火）\n\n**Address**\n東京�
 LOCATION:東京都中央区八重洲1-7-20八重洲口会館B1\, 虎連坊八重洲店
 END:VEVENT
 BEGIN:VEVENT
-UID:uyGcOS1H6vfS5GNQNEWPo
+UID:0BZCy3dVOQ2zoCV5R0JWP
 SUMMARY:【父の日】〈YUEN 広島呉〉送料無料キャンペーン Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240607
 DESCRIPTION:**Description**\nRuns from 2024年6月7日（金） to 2024年6月9日（日）\n\n**Ad
 	dress**\n【キャンペーンコード】\nHIROSHIMA\n\n**Link**\nhttps://tokyo-sake-calendar.c
@@ -147,9 +45,9 @@ DESCRIPTION:**Description**\nRuns from 2024年6月7日（金） to 2024年6月9�
 LOCATION:【キャンペーンコード】\, HIROSHIMA
 END:VEVENT
 BEGIN:VEVENT
-UID:nWlC4Zjh2rgWEinJopmX0
+UID:7A4Bg6O-o_ttaeSnpctM9
 SUMMARY:新潟酒バルの陣in目黒 Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240615
 DESCRIPTION:**Description**\nRuns from 2024年6月15日（土） to 2024年6月16日（日）\n\n**
 	Address**\n東京都品川区西五反田3-1-2\nスタジオEASE イベント会場\n\n**Link**\nhttps://tokyo-sak
@@ -157,9 +55,9 @@ DESCRIPTION:**Description**\nRuns from 2024年6月15日（土） to 2024年6月1
 LOCATION:東京都品川区西五反田3-1-2\, スタジオEASE イベント会場
 END:VEVENT
 BEGIN:VEVENT
-UID:3cl4LP1A-UbZL8zx6cfNO
+UID:kbTomLZIAb6HCfQAt0Z9u
 SUMMARY:「トヤマバー de ナイト」第2弾富山の地酒を語る会「立山酒造株式会社」 Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240616
 DESCRIPTION:**Description**\nOn 2024年6月16日（日）\n\n**Address**\n東京都中央区日本橋室町1-
 	2-6\n日本橋とやま館 トヤマバー\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/2024
@@ -167,9 +65,9 @@ DESCRIPTION:**Description**\nOn 2024年6月16日（日）\n\n**Address**\n東京
 LOCATION:東京都中央区日本橋室町1-2-6\, 日本橋とやま館 トヤマバー
 END:VEVENT
 BEGIN:VEVENT
-UID:cDOjBRUZOMZ40sVIwlHae
+UID:4adfHdYRlufIAkTg2anyU
 SUMMARY:酒蔵巡り「水芭蕉ナイト in 桜丘」 Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240622
 DESCRIPTION:**Description**\nOn 2024年6月22日（土）\n\n**Address**\n東京都渋谷区桜丘町26-1
 	\nセルリアンタワー東急ホテル \n日本料理「Japanese Cuisine 桜丘」\n\n**Link**\nhttps://tokyo-sak
@@ -177,9 +75,9 @@ DESCRIPTION:**Description**\nOn 2024年6月22日（土）\n\n**Address**\n東京
 LOCATION:東京都渋谷区桜丘町26-1\, セルリアンタワー東急ホテル \, 日本料理「Japanese Cuisine 桜丘」
 END:VEVENT
 BEGIN:VEVENT
-UID:WZFNKE3eRwdTnZacp3ups
+UID:NNVVsjQCtDtFfP1Hy_-bK
 SUMMARY:「トヤマバー de ナイト」第3弾夏のにごり酒14種飲み比べ  Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240623
 DESCRIPTION:**Description**\nOn 2024年6月23日（日）\n\n**Address**\n東京都中央区日本橋室町1-
 	2-6\n日本橋とやま館 トヤマバー\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/2024
@@ -187,9 +85,9 @@ DESCRIPTION:**Description**\nOn 2024年6月23日（日）\n\n**Address**\n東京
 LOCATION:東京都中央区日本橋室町1-2-6\, 日本橋とやま館 トヤマバー
 END:VEVENT
 BEGIN:VEVENT
-UID:o2qkQnBQCJkBgmdmqj6Ij
+UID:qstX-kXTJiq_1_xMKp9bG
 SUMMARY:第5回『ヒガギンメイト』うまい酒と出逢うトークショー Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240625
 DESCRIPTION:**Description**\nOn 2024年6月25日（火）\n\n**Address**\n東京都中央区銀座6-17-
 	1\n三井デザインテック本社1階\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202406
@@ -197,9 +95,9 @@ DESCRIPTION:**Description**\nOn 2024年6月25日（火）\n\n**Address**\n東京
 LOCATION:東京都中央区銀座6-17-1\, 三井デザインテック本社1階
 END:VEVENT
 BEGIN:VEVENT
-UID:llTxYDyuH33ig4agS9XHa
+UID:qTLUhUS5Gzv2R1YM-mpdz
 SUMMARY:YOKOHAMA SAKE SQUARE 2024～ヨコハマ サケ スクエア 2024～ Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240629
 DESCRIPTION:**Description**\nRuns from 2024年6月29日（土） to 2024年6月30日（日）\n\n**
 	Address**\n神奈川県横浜市中区新港1-1-1\n横浜赤レンガ倉庫1号館\n\n**Link**\nhttps://tokyo-sake-c
@@ -207,9 +105,9 @@ DESCRIPTION:**Description**\nRuns from 2024年6月29日（土） to 2024年6月3
 LOCATION:神奈川県横浜市中区新港1-1-1\, 横浜赤レンガ倉庫1号館
 END:VEVENT
 BEGIN:VEVENT
-UID:v-kljposvne9e_8GYLa9f
+UID:ZUAh3n5OAbKUtcWtzPYnO
 SUMMARY:埼玉の百年酒蔵巡りと新一万円札の渋沢栄一の足跡を辿る、地酒と料理のプレミアム酒蔵ツアー Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240629
 DESCRIPTION:**Description**\nOn 2024年6月29日（土）\n\n**Address**\n【集合場所】\n東京都新宿
 	区西新宿1-25\n新宿センタービル正面玄関前\n\n**Link**\nhttps://tokyo-sake-calendar.com/event
@@ -217,9 +115,9 @@ DESCRIPTION:**Description**\nOn 2024年6月29日（土）\n\n**Address**\n【集
 LOCATION:【集合場所】\, 東京都新宿区西新宿1-25\, 新宿センタービル正面玄関前
 END:VEVENT
 BEGIN:VEVENT
-UID:_I_O8tW5FZfywRwLRkK05
+UID:nakQtTjAp_vTOkyMH3rZ0
 SUMMARY:【第235回 蔵元を囲む会】尾畑酒造「真野鶴」と「喉黒」尽くし会席を楽しむ会 Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240630
 DESCRIPTION:**Description**\nOn 2024年6月30日（日）\n\n**Address**\n東京都中央区銀座8-8-8
 	 銀座888 6F\n銀座方舟 大吟醸しずく店\n\n**Link**\nhttps://tokyo-sake-calendar.com/event
@@ -227,9 +125,9 @@ DESCRIPTION:**Description**\nOn 2024年6月30日（日）\n\n**Address**\n東京
 LOCATION:東京都中央区銀座8-8-8 銀座888 6F\, 銀座方舟 大吟醸しずく店
 END:VEVENT
 BEGIN:VEVENT
-UID:Sy64TTOhSijUOdrS4zPCP
+UID:QTwCiJZ7GJGoxf_rxBQ2D
 SUMMARY:日本酒フェア ２０２４ Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240705
 DESCRIPTION:**Description**\nRuns from 2024年7月5日（金） to 2024年7月6日（土）\n\n**Ad
 	dress**\n東京都豊島区東池袋3-1-1\nサンシャインシティ 文化会館ビル\n\n**Link**\nhttps://tokyo-sake-
@@ -237,9 +135,9 @@ DESCRIPTION:**Description**\nRuns from 2024年7月5日（金） to 2024年7月6�
 LOCATION:東京都豊島区東池袋3-1-1\, サンシャインシティ 文化会館ビル
 END:VEVENT
 BEGIN:VEVENT
-UID:2UsdYwLFmA1PZLvdtvTJn
+UID:p5yfr27nmUOrYgRlsp6fX
 SUMMARY:市野屋醸造元 株式会社市野屋の会@銀座方舟 川崎ラチッタデッラ店 Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240707
 DESCRIPTION:**Description**\nOn 2024年7月7日（日）\n\n**Address**\n神奈川県川崎市川崎区小川町4
 	-1\n銀座方舟 川崎ラチッタデッラ店\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202
@@ -247,9 +145,9 @@ DESCRIPTION:**Description**\nOn 2024年7月7日（日）\n\n**Address**\n神奈�
 LOCATION:神奈川県川崎市川崎区小川町4-1\, 銀座方舟 川崎ラチッタデッラ店
 END:VEVENT
 BEGIN:VEVENT
-UID:8sUDAqPwOaxKrN1UpcKtl
+UID:i3MbqcvdBzsomPvemUdDV
 SUMMARY:シェア酒でシアワセ！～ひとあし早く夏を感じよう！編～ Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240712
 DESCRIPTION:**Description**\nOn 2024年7月12日（金）\n\n**Address**\n東京都中央区日本橋本町1-
 	4-12\nカネダ日本橋センタービルディング\n+NARU NIHONBASHI\n\n**Link**\nhttps://tokyo-sake-c
@@ -257,9 +155,19 @@ DESCRIPTION:**Description**\nOn 2024年7月12日（金）\n\n**Address**\n東京
 LOCATION:東京都中央区日本橋本町1-4-12\, カネダ日本橋センタービルディング\, +NARU NIHONBASHI
 END:VEVENT
 BEGIN:VEVENT
-UID:EyEAfuOZ2mHJgzete4wF9
+UID:HNeOBpiyDbNkHYNiUKpG8
+SUMMARY:演芸 日本酒 小料理「茶屋 しゃんりん」夏第一夜 ：桂九ノ一 Sake Event
+DTSTAMP:20240701T123925Z
+DTSTART;VALUE=DATE:20240722
+DESCRIPTION:**Description**\nOn 2024年7月22日（月）\n\n**Address**\n東京都豊島区駒込1-40-
+	14\nアーリーバード アクロス\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202407
+	-006/
+LOCATION:東京都豊島区駒込1-40-14\, アーリーバード アクロス
+END:VEVENT
+BEGIN:VEVENT
+UID:9FiW_ZxVj9Mstps_N-3bZ
 SUMMARY:お酒が飲める!お酒好き必見、酒蔵就職説明会2025･2026新卒向け酒造業特化型の就職合同説明会 Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240726
 DESCRIPTION:**Description**\nOn 2024年7月26日（金）\n\n**Address**\n東京都北区滝野川2-45-
 	9\n赤煉瓦酒造工場（旧醸造試験所第一工場）\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/
@@ -267,9 +175,9 @@ DESCRIPTION:**Description**\nOn 2024年7月26日（金）\n\n**Address**\n東京
 LOCATION:東京都北区滝野川2-45-9\, 赤煉瓦酒造工場（旧醸造試験所第一工場）
 END:VEVENT
 BEGIN:VEVENT
-UID:8bcjy46wohaP2WK7gMgdp
+UID:zd5UqvzDgAcHwdtJCKEEJ
 SUMMARY:第25回 和酒フェス -WASHU FES- in 中目黒 Sake Event
-DTSTAMP:20240624T123744Z
+DTSTAMP:20240701T123925Z
 DTSTART;VALUE=DATE:20240727
 DESCRIPTION:**Description**\nRuns from 2024年7月27日（土） to 2024年7月28日（日）\n\n**
 	Address**\n東京都目黒区上目黒2-1-1\n中目黒GTタワー前広場\n\n**Link**\nhttps://tokyo-sake-cal
