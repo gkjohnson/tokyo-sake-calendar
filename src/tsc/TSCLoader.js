@@ -13,10 +13,17 @@ function createDateString( date ) {
 function parseStringToDate( str ) {
 
     const dateStrings = str.match( /(\d{4})[^\d]+(\d{1,2})[^\d]+(\d{1,2})/ );
+    if ( dateStrings === null ) {
+
+        return null;
+
+    }
+
     dateStrings.shift();
 
+    // JST timezone is +9 hours from UTC
     const [ year, month, day ] = dateStrings.map( d => parseInt( d ) );
-    return new Date( year, month - 1, day );
+    return new Date( year, month - 1, day, 9 );
 
 }
 
@@ -46,9 +53,15 @@ function elementToEvent( el ) {
 
     const res = new CalendarEvent();
     res.subject = title + ' Sake Event';
-    res.startTime = parseStringToDate( startDate );
-    res.endTime = parseStringToDate( endDate );
+    res.startTime = parseStringToDate( startDate ) || parseStringToDate( endDate );
+    res.endTime = parseStringToDate( endDate ) || parseStringToDate( startDate );
     res.allDay = true;
+
+    if ( res.startTime === null ) {
+
+        return null;
+
+    }
 
     res.description = `**Description**\n${ description }\n\n`;
     res.description += `**Address**\n${ locationEl.textContent.replace( /[\n\r]+/g, '\n' ) }\n\n`;
@@ -86,7 +99,8 @@ export class TSCLoader {
             const dom = new JSDOM( text );
             return [ ...dom.window.document
                 .querySelectorAll( '.bl_event_item' ) ]
-                .map( el => elementToEvent( el ) );
+                .map( el => elementToEvent( el ) )
+                .filter( ev => ev );
 
         } );
 
