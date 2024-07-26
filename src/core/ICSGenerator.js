@@ -18,6 +18,7 @@ export class ICSGenerator {
                 description: e.description,
                 location: e.location,
                 start: timeToArray( e.startTime ),
+                end: timeToArray( e.endTime ),
 
             };
 
