@@ -97,10 +97,31 @@ export class TSCLoader {
         .then( text => {
 
             const dom = new JSDOM( text );
-            return [ ...dom.window.document
-                .querySelectorAll( '.bl_event_item' ) ]
-                .map( el => elementToEvent( el ) )
-                .filter( ev => ev );
+            const elements = [ ...dom.window.document.querySelectorAll( '.bl_event_item' ) ];
+            const results = [];
+            for ( let i = 0, l = elements.length; i < l; i ++ ) {
+
+                const ev = elementToEvent( elements[ i ] );
+                if ( ev === null ) continue;
+
+                // find any duplicates
+                const match = results.find( ev2 => {
+
+                    return ev.subject === ev2.subject &&
+                        ev.startTime === ev2.startTime &&
+                        ev.endTime === ev2.endTime;
+
+                } );
+
+                if ( match !== null ) {
+
+                    results.push( ev );
+
+                }
+
+            }
+
+            return results;
 
         } );
 
