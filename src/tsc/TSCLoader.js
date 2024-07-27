@@ -105,15 +105,8 @@ export class TSCLoader {
                 if ( ev === null ) continue;
 
                 // find any duplicates
-                const match = results.find( ev2 => {
-
-                    return ev.subject === ev2.subject &&
-                        ev.startTime === ev2.startTime &&
-                        ev.endTime === ev2.endTime;
-
-                } );
-
-                if ( match !== null ) {
+                const match = results.find( ev2 => ev.subject === ev2.subject );
+                if ( ! match ) {
 
                     results.push( ev );
 
