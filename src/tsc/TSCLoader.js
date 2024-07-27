@@ -10,7 +10,7 @@ function createDateString( date ) {
 
 }
 
-function parseStringToDate( str ) {
+function parseStringToDate( str, addDays = 0 ) {
 
     const dateStrings = str.match( /(\d{4})[^\d]+(\d{1,2})[^\d]+(\d{1,2})/ );
     if ( dateStrings === null ) {
@@ -23,7 +23,7 @@ function parseStringToDate( str ) {
 
     // JST timezone is +9 hours from UTC
     const [ year, month, day ] = dateStrings.map( d => parseInt( d ) );
-    return new Date( year, month - 1, day, 9 );
+    return new Date( year, month - 1, day + addDays, 9 );
 
 }
 
@@ -51,10 +51,11 @@ function elementToEvent( el ) {
 
     }
 
+    // Add 1 to the end date day to indicate an all day event
     const res = new CalendarEvent();
     res.subject = title + ' Sake Event';
     res.startTime = parseStringToDate( startDate ) || parseStringToDate( endDate );
-    res.endTime = parseStringToDate( endDate ) || parseStringToDate( startDate );
+    res.endTime = parseStringToDate( endDate, 1 ) || parseStringToDate( startDate, 1 );
     res.allDay = true;
 
     if ( res.startTime === null ) {
