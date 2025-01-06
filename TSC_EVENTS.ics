@@ -5,19 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xnI70ATdad0BjLWOhpnLF
-SUMMARY:【数量限定】最大で30％オフ Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241129
-DTEND;VALUE=DATE:20241223
-DESCRIPTION:**Description**\nRuns from 2024年11月29日（金） to 2024年12月22日（日）\n\n
-	**Address**\n\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202411-01
-	8/
-END:VEVENT
-BEGIN:VEVENT
-UID:lg7t1DhfeaeHLj56GqyBJ
+UID:oTx22hccLsM-Ut8f7Tatl
 SUMMARY:【菊の里酒造】ブラックフライデー　今だけ高級酒が10%オフ！ Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241129
 DTEND;VALUE=DATE:20241207
 DESCRIPTION:**Description**\nRuns from 2024年11月29日（金） to 2024年12月6日（金）\n\n*
@@ -25,9 +15,9 @@ DESCRIPTION:**Description**\nRuns from 2024年11月29日（金） to 2024年12�
 	/
 END:VEVENT
 BEGIN:VEVENT
-UID:Kn4LZRhMuwhww9wFL4OuQ
+UID:Llbcx6eN2gkW2iaHh5FbQ
 SUMMARY:【東京酒カレンダー限定特典有】新酒お披露目 酒蔵ふぇす～山形県鶴岡市大山地域の蔵が勢揃い～ Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241208
 DTEND;VALUE=DATE:20241209
 DESCRIPTION:**Description**\nOn 2024年12月8日（日）\n\n**Address**\n東京都千代田区大手町1-1
@@ -36,197 +26,19 @@ DESCRIPTION:**Description**\nOn 2024年12月8日（日）\n\n**Address**\n東京
 LOCATION:東京都千代田区大手町1-1-2\, 大手門タワー・ENEOSビル1階\, 3×3 Lab Future
 END:VEVENT
 BEGIN:VEVENT
-UID:OlF_OR9H4O28qvp4XVKLx
-SUMMARY:第3弾 日本酒一合缶角打ち 旅する日本酒店@JR国立駅 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241101
-DTEND;VALUE=DATE:20241118
-DESCRIPTION:**Description**\nRuns from 2024年11月1日（金） to 2024年11月17日（日）\n\n*
-	*Address**\n東京都国立市北１丁目\nJR国立駅 北口広場\n\n**Link**\nhttps://tokyo-sake-calenda
-	r.com/event/202411-015/
-LOCATION:東京都国立市北１丁目\, JR国立駅 北口広場
-END:VEVENT
-BEGIN:VEVENT
-UID:y7KHmV_Wn7FeCwJcmRVtn
-SUMMARY:恵比寿おいしいSAKEウォーク2024 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241103
-DTEND;VALUE=DATE:20241104
-DESCRIPTION:**Description**\nOn 2024年11月3日（日）\n\n**Address**\n恵比寿・代官山エリア28拠
-	点\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202411-005/
-LOCATION:恵比寿・代官山エリア28拠点
-END:VEVENT
-BEGIN:VEVENT
-UID:tFpj3s7rwcijonEqSB99T
-SUMMARY:角打ち（SAKEナイト）イベント @伊勢丹新宿 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241103
-DTEND;VALUE=DATE:20241104
-DESCRIPTION:**Description**\nOn 2024年11月3日（日）\n\n**Address**\n東京都新宿区新宿3-14-
-	1\n伊勢丹新宿店 本館地下1階 和酒売り場\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/
-	202411-007/
-LOCATION:東京都新宿区新宿3-14-1\, 伊勢丹新宿店 本館地下1階 和酒売り場
-END:VEVENT
-BEGIN:VEVENT
-UID:9pF5qJfhMjdcw1eNVOrqN
-SUMMARY:TOYOSU SAKE TERRACE Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241103
-DTEND;VALUE=DATE:20241104
-DESCRIPTION:**Description**\nOn 2024年11月3日（日）\n\n**Address**\n 東京都江東区豊洲6-4-
-	34\nミチノテラス豊洲2階（メブクス豊洲）\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/
-	202411-011/
-LOCATION: 東京都江東区豊洲6-4-34\, ミチノテラス豊洲2階（メブクス豊洲）
-END:VEVENT
-BEGIN:VEVENT
-UID:kLRF0BTy1k40otW3IlwRw
-SUMMARY:TOKYO SAKE BASE × 筋肉食堂 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241106
-DTEND;VALUE=DATE:20241107
-DESCRIPTION:**Description**\nOn 2024年11月6日（水）\n\n**Address**\n東京都中央区銀座７丁目2の
-	先 216 号室 ２階\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202411-012/
-LOCATION:東京都中央区銀座７丁目2の先 216 号室 ２階
-END:VEVENT
-BEGIN:VEVENT
-UID:yZxZCuk1O8uY9Opme_hPR
-SUMMARY:新 國府鶴 お披露目試飲会 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241109
-DTEND;VALUE=DATE:20241110
-DESCRIPTION:**Description**\nOn 2024年11月9日（土）\n\n**Address**\n東京都府中市宮町1-41-
-	1\n専門店街フォーリス1階 光と風の広場\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/2
-	02411-004/
-LOCATION:東京都府中市宮町1-41-1\, 専門店街フォーリス1階 光と風の広場
-END:VEVENT
-BEGIN:VEVENT
-UID:L-eVBejlRphg34nNb-xun
-SUMMARY:福徳の森日本酒祭 morinomi7 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241109
-DTEND;VALUE=DATE:20241110
-DESCRIPTION:**Description**\nOn 2024年11月9日（土）\n\n**Address**\n東京都中央区日本橋室町2-
-	5-10\n福徳の森\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202411-008/
-LOCATION:東京都中央区日本橋室町2-5-10\, 福徳の森
-END:VEVENT
-BEGIN:VEVENT
-UID:Ze21qvFfe3VqYodEcxWS7
-SUMMARY:蔵元の解説付き 酒肴ビュッフェ付き試飲会～秋の酒祭り～＠虎連坊 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241112
-DTEND;VALUE=DATE:20241117
-DESCRIPTION:**Description**\nRuns from 2024年11月12日（火） to 2024年11月16日（土）\n\n
-	**Address**\n虎連坊八重洲店：\n東京都中央区八重洲1-7-20八重洲口会館B1\n虎連坊 秋葉原店：\n東京都千代田区外神田1-18-
-	18BiTO AKIBA PLAZA 9F\n虎連坊 大手町店：\n東京都千代田区大手町1-5-1大手町ファーストスクエア イーストタワーB1\n\
-	n**Link**\nhttps://tokyo-sake-calendar.com/event/202411-006/
-LOCATION:虎連坊八重洲店：\, 東京都中央区八重洲1-7-20八重洲口会館B1\, 虎連坊 秋葉原店：\, 東京都千代田区外神田1-18-18
-	BiTO AKIBA PLAZA 9F\, 虎連坊 大手町店：\, 東京都千代田区大手町1-5-1大手町ファーストスクエア イーストタワーB1
-END:VEVENT
-BEGIN:VEVENT
-UID:2ERqX_SHHpQH1Zc14SAxg
-SUMMARY:SAGANMON vol.2 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241115
-DTEND;VALUE=DATE:20241116
-DESCRIPTION:**Description**\nOn 2024年11月15日（金）\n\n**Address**\n東京都世田谷区北沢2-3
-	3-7\n下北沢CREAM B1F\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/20241
-	1-017/
-LOCATION:東京都世田谷区北沢2-33-7\, 下北沢CREAM B1F
-END:VEVENT
-BEGIN:VEVENT
-UID:fCUv_knVXO4BEI5MV4ODk
-SUMMARY:第9回 酒屋角打ちフェス Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241115
-DTEND;VALUE=DATE:20241118
-DESCRIPTION:**Description**\nRuns from 2024年11月15日（金） to 2024年11月17日（日）\n\n
-	**Address**\n東京都台東区上野公園 \n上野恩賜公園 竹の台広場\n\n**Link**\nhttps://tokyo-sake-cal
-	endar.com/event/202411-009/
-LOCATION:東京都台東区上野公園 \, 上野恩賜公園 竹の台広場
-END:VEVENT
-BEGIN:VEVENT
-UID:mov7PcyAzEWYWPmrwU89o
-SUMMARY:SAKE PARK 4杯 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241116
-DTEND;VALUE=DATE:20241118
-DESCRIPTION:**Description**\nRuns from 2024年11月16日（土） to 2024年11月17日（日）\n\n
-	**Address**\n東京都渋谷区神宮前6-20-10\nMIYASHITA PARK 屋上\n\n**Link**\nhttps://toky
-	o-sake-calendar.com/event/202411-002/
-LOCATION:東京都渋谷区神宮前6-20-10\, MIYASHITA PARK 屋上
-END:VEVENT
-BEGIN:VEVENT
-UID:jMz2GRGd0F1bUvApdK1os
-SUMMARY:シェア酒でシアワセ！～秋酒と秋鮭編～ Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241119
-DTEND;VALUE=DATE:20241120
-DESCRIPTION:**Description**\nOn 2024年11月19日（火）\n\n**Address**\n東京都中央区日本橋本町1
-	-4-12\nカネダ日本橋センタービルディング\n+NARU NIHONBASHI\n\n**Link**\nhttps://tokyo-sake-
-	calendar.com/event/202411-014/
-LOCATION:東京都中央区日本橋本町1-4-12\, カネダ日本橋センタービルディング\, +NARU NIHONBASHI
-END:VEVENT
-BEGIN:VEVENT
-UID:cvm8ko2qvo___ZweFpVWd
-SUMMARY:土佐清水ワールド 無手無冠 四万十ヌーボー解禁祭！ Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241121
-DTEND;VALUE=DATE:20241122
-DESCRIPTION:**Description**\nOn 2024年11月21日（木）\n\n**Address**\n土佐清水ワールド\n・上
-	野店　：東京都台東区上野7-2-4 FUNDES上野2階\n・新橋店　：東京都港区新橋2-12-8 GEMS新橋 2F\n・五反田店：東京都品川区西
-	五反田1-2-8 FPGリンクス五反田３階\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/2
-	02411-013/
-LOCATION:土佐清水ワールド\, ・上野店　：東京都台東区上野7-2-4 FUNDES上野2階\, ・新橋店　：東京都港区新橋2-12-8 GE
-	MS新橋 2F\, ・五反田店：東京都品川区西五反田1-2-8 FPGリンクス五反田３階
-END:VEVENT
-BEGIN:VEVENT
-UID:Qz4IoOCKsUwNYGUEwtFO5
-SUMMARY:東京農大卒業生の蔵元による日本酒・焼酎 農大試飲会【11月開催】 Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241123
-DTEND;VALUE=DATE:20241124
-DESCRIPTION:**Description**\nOn 2024年11月23日（土）\n\n**Address**\n東京都世田谷区桜丘1-1
-	-1\n東京農業大学 世田谷キャンパス 国際センター\n\n**Link**\nhttps://tokyo-sake-calendar.com/ev
-	ent/202411-001/
-LOCATION:東京都世田谷区桜丘1-1-1\, 東京農業大学 世田谷キャンパス 国際センター
-END:VEVENT
-BEGIN:VEVENT
-UID:-uXxUB8rLh180WtzeErLE
-SUMMARY:Vesper 1st Anniversary Party Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241123
-DTEND;VALUE=DATE:20241124
-DESCRIPTION:**Description**\nOn 2024年11月23日（土）\n\n**Address**\n東京都港区六本木3-17
-	-10\nROPPONGI DUPLEX TOWER 2F\n\n**Link**\nhttps://tokyo-sake-calendar.com
-	/event/202411-003/
-LOCATION:東京都港区六本木3-17-10\, ROPPONGI DUPLEX TOWER 2F
-END:VEVENT
-BEGIN:VEVENT
-UID:nIVXBFCi8Z-KY-yzIn5vm
-SUMMARY:第3弾 日本酒一合缶角打ち 旅する日本酒店 ＠JR武蔵境駅 Sake Event
-DTSTAMP:20241230T124321Z
+UID:ITSI43kE6tpxWStS_qhTX
+SUMMARY:【数量限定】最大で30％オフ Sake Event
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241129
 DTEND;VALUE=DATE:20241223
 DESCRIPTION:**Description**\nRuns from 2024年11月29日（金） to 2024年12月22日（日）\n\n
-	**Address**\n東京都武蔵野市境南町2-1-12\nJR武蔵境駅　nonowa Terrace\n\n**Link**\nhttps://
-	tokyo-sake-calendar.com/event/202411-016/
-LOCATION:東京都武蔵野市境南町2-1-12\, JR武蔵境駅　nonowa Terrace
+	**Address**\n\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202411-01
+	8/
 END:VEVENT
 BEGIN:VEVENT
-UID:fivI6TQSJus9BqXybr2Lr
-SUMMARY:ふるさと鍋グランプリ2024 in すみだ Sake Event
-DTSTAMP:20241230T124321Z
-DTSTART;VALUE=DATE:20241129
-DTEND;VALUE=DATE:20241202
-DESCRIPTION:**Description**\nRuns from 2024年11月29日（金） to 2024年12月1日（日）\n\n*
-	*Address**\n東京都墨田区向島1-3\n墨田区立隅田公園\n\n**Link**\nhttps://tokyo-sake-calendar
-	.com/event/202411-010/
-LOCATION:東京都墨田区向島1-3\, 墨田区立隅田公園
-END:VEVENT
-BEGIN:VEVENT
-UID:8FoFfRmPBtU-4IeDhWmtW
+UID:P2vYLWmd8Ce408Ii4mjO7
 SUMMARY:SAKE FES by KEG DRAFT Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241130
 DTEND;VALUE=DATE:20241202
 DESCRIPTION:**Description**\nRuns from 2024年11月30日（土） to 2024年12月1日（日）\n\n*
@@ -235,9 +47,20 @@ DESCRIPTION:**Description**\nRuns from 2024年11月30日（土） to 2024年12�
 LOCATION:東京都武蔵野市吉祥寺本町1-11-5\, コピス吉祥寺A館3階 GREENING広場
 END:VEVENT
 BEGIN:VEVENT
-UID:JaQiVLOxlBYk6GMA4pJg4
+UID:Vxu4yCvghOzt4tA0f6SBj
+SUMMARY:ふるさと鍋グランプリ2024 in すみだ Sake Event
+DTSTAMP:20250106T124531Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241202
+DESCRIPTION:**Description**\nRuns from 2024年11月29日（金） to 2024年12月1日（日）\n\n*
+	*Address**\n東京都墨田区向島1-3\n墨田区立隅田公園\n\n**Link**\nhttps://tokyo-sake-calendar
+	.com/event/202411-010/
+LOCATION:東京都墨田区向島1-3\, 墨田区立隅田公園
+END:VEVENT
+BEGIN:VEVENT
+UID:OSS5sYrbFkC2I5M3X-Im8
 SUMMARY:幻の銘酒「褒紋正宗」鏡開き＆特別販売イベント！ Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241202
 DTEND;VALUE=DATE:20241230
 DESCRIPTION:**Description**\nRuns from 2024年12月2日（月） to 2024年12月29日（日）\n\n*
@@ -246,9 +69,9 @@ DESCRIPTION:**Description**\nRuns from 2024年12月2日（月） to 2024年12月
 LOCATION:東京都中央区築地6-26-1\, 魚河岸小田原橋棟3F 築地 角打ち旅手箱
 END:VEVENT
 BEGIN:VEVENT
-UID:GCLalfiNI45OuhGX_JoqZ
+UID:F3UR5-dT-jAST-nWWisi3
 SUMMARY:シェア酒でシアワセ！～2024年大忘年会編～ Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241205
 DTEND;VALUE=DATE:20241206
 DESCRIPTION:**Description**\nOn 2024年12月5日（木）\n\n**Address**\n東京都中央区日本橋本町1-
@@ -257,9 +80,9 @@ DESCRIPTION:**Description**\nOn 2024年12月5日（木）\n\n**Address**\n東京
 LOCATION:東京都中央区日本橋本町1-4-12\, カネダ日本橋センタービルディング\, +NARU NIHONBASHI
 END:VEVENT
 BEGIN:VEVENT
-UID:F9gvFkfN8vz46yL9KmMGb
+UID:KZLWQVpFodrfGkWf95yaJ
 SUMMARY:下町ハイカロリーフェス Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241205
 DTEND;VALUE=DATE:20241209
 DESCRIPTION:**Description**\nRuns from 2024年12月5日（木） to 2024年12月8日（日）\n\n**
@@ -268,9 +91,9 @@ DESCRIPTION:**Description**\nRuns from 2024年12月5日（木） to 2024年12月
 LOCATION:東京都台東区上野公園\, 上野恩賜公園 竹の台広場
 END:VEVENT
 BEGIN:VEVENT
-UID:3Gyy0WOCyDGcuh8bnJVq7
+UID:bOtKZ0C5k8Vush0QN0zk7
 SUMMARY:【築地ギフトセット販売記念】マグロ& SAKEペアリングイベント Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241206
 DTEND;VALUE=DATE:20241229
 DESCRIPTION:**Description**\nRuns from 2024年12月6日（金） to 2024年12月28日（土）\n\n*
@@ -279,9 +102,9 @@ DESCRIPTION:**Description**\nRuns from 2024年12月6日（金） to 2024年12月
 LOCATION:東京都中央区築地6-26-1\, 魚河岸小田原橋棟3F 築地 角打ち旅手箱
 END:VEVENT
 BEGIN:VEVENT
-UID:ZQfBxRUFKCGOwd81LasTR
+UID:DHQvHnkyqFzn0bXlJwvgm
 SUMMARY:【特別企画】酒米を使ったおむすびと、こだわりの日本酒楽しむイベント！ Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241211
 DTEND;VALUE=DATE:20241212
 DESCRIPTION:**Description**\nOn 2024年12月11日（水）\n\n**Address**\n東京都中央区日本橋2-2
@@ -290,9 +113,9 @@ DESCRIPTION:**Description**\nOn 2024年12月11日（水）\n\n**Address**\n東�
 LOCATION:東京都中央区日本橋2-2-18 八重洲通りビル2階\, THE FLYING PENGUINS
 END:VEVENT
 BEGIN:VEVENT
-UID:1yi6ca120ibkLdaqYiW34
+UID:R7DGKkaLTN0NAaUYkbDyW
 SUMMARY:名水の里「黒部」の恵みと幻の瀧を味わう会～地質学的視点から探る、おいしさの秘密～ Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20241220
 DTEND;VALUE=DATE:20241221
 DESCRIPTION:**Description**\nOn 2024年12月20日（金）\n\n**Address**\n東京都中央区日本橋室町1
@@ -301,9 +124,20 @@ DESCRIPTION:**Description**\nOn 2024年12月20日（金）\n\n**Address**\n東�
 LOCATION:東京都中央区日本橋室町1-2-6 日本橋大栄ビル1F
 END:VEVENT
 BEGIN:VEVENT
-UID:cT5r71_WEjXnblQdR2VHr
+UID:-VnS3u8k-y_AXtQ99o6-M
+SUMMARY:第3弾 日本酒一合缶角打ち 旅する日本酒店 ＠JR武蔵境駅 Sake Event
+DTSTAMP:20250106T124531Z
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241223
+DESCRIPTION:**Description**\nRuns from 2024年11月29日（金） to 2024年12月22日（日）\n\n
+	**Address**\n東京都武蔵野市境南町2-1-12\nJR武蔵境駅　nonowa Terrace\n\n**Link**\nhttps://
+	tokyo-sake-calendar.com/event/202411-016/
+LOCATION:東京都武蔵野市境南町2-1-12\, JR武蔵境駅　nonowa Terrace
+END:VEVENT
+BEGIN:VEVENT
+UID:HRQgofgWT-u-O8ATuz0ji
 SUMMARY:おでん＆地酒フェス 2025 Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20250116
 DTEND;VALUE=DATE:20250120
 DESCRIPTION:**Description**\nRuns from 2025年1月16日（木） to 2025年1月19日（日）\n\n**
@@ -312,9 +146,20 @@ DESCRIPTION:**Description**\nRuns from 2025年1月16日（木） to 2025年1月1
 LOCATION:東京都台東区上野公園 \, 上野恩賜公園 竹の台広場（噴水前広場）
 END:VEVENT
 BEGIN:VEVENT
-UID:HMTcIV3mBsNel9BxhcsMg
+UID:ycPnpX2xwAZU68dS1WMI3
+SUMMARY:シェア酒でシアワセ！2025年大新年会 Sake Event
+DTSTAMP:20250106T124531Z
+DTSTART;VALUE=DATE:20250121
+DTEND;VALUE=DATE:20250122
+DESCRIPTION:**Description**\nOn 2025年1月21日（火）\n\n**Address**\n東京都中央区日本橋本町1-
+	4-12\nカネダ日本橋センタービルディング\n+NARU NIHONBASHI\n\n**Link**\nhttps://tokyo-sake-c
+	alendar.com/event/202501-004/
+LOCATION:東京都中央区日本橋本町1-4-12\, カネダ日本橋センタービルディング\, +NARU NIHONBASHI
+END:VEVENT
+BEGIN:VEVENT
+UID:3hF66vGaBjJpoEwl4V5Qi
 SUMMARY:東京農大卒業生の蔵元による日本酒・焼酎 農大試飲会【1月開催】 Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20250125
 DTEND;VALUE=DATE:20250126
 DESCRIPTION:**Description**\nOn 2025年1月25日（土）\n\n**Address**\n東京都世田谷区桜丘1-1-
@@ -323,9 +168,9 @@ DESCRIPTION:**Description**\nOn 2025年1月25日（土）\n\n**Address**\n東京
 LOCATION:東京都世田谷区桜丘1-1-1\, 東京農業大学 世田谷キャンパス 国際センター
 END:VEVENT
 BEGIN:VEVENT
-UID:jL17bJNvlq5Z_bJbkl7rl
+UID:j-HEh4zz6JotZxjm9RKVJ
 SUMMARY:おでんで熱燗ステーション Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20250130
 DTEND;VALUE=DATE:20250203
 DESCRIPTION:**Description**\nRuns from 2025年1月30日（木） to 2025年2月2日（日）\n\n**A
@@ -334,9 +179,9 @@ DESCRIPTION:**Description**\nRuns from 2025年1月30日（木） to 2025年2月2
 LOCATION:東京都墨田区横網1-3-20\, JR両国駅 3番線ホーム
 END:VEVENT
 BEGIN:VEVENT
-UID:FBDtP4wa59G5_M59dVVQB
+UID:yDenqmPpLbPklvO5aU076
 SUMMARY:第1回 プレミアム和酒フェスin日本橋 Sake Event
-DTSTAMP:20241230T124321Z
+DTSTAMP:20250106T124531Z
 DTSTART;VALUE=DATE:20250207
 DTEND;VALUE=DATE:20250209
 DESCRIPTION:**Description**\nRuns from 2025年2月7日（金） to 2025年2月8日（土）\n\n**Ad
