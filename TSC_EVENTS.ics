@@ -5,9 +5,20 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:hJEU0K6OpqHk76u71rEJw
+UID:hP_-B3_jm6E6OjmqKylNt
+SUMMARY:【日本酒ギフトの決定版】【Kura Master 金賞の純米大吟醸】YUEN 広島呉が Amazon でお得！ Sake Event
+DTSTAMP:20250414T125014Z
+DTSTART;VALUE=DATE:20250413
+DTEND;VALUE=DATE:20250501
+DESCRIPTION:**Description**\nRuns from 2025年4月13日（日） to 2025年4月30日（水）\n\n**
+	Address**\nAmazon.co.jp\n\n**Link**\nhttps://tokyo-sake-calendar.com/event
+	/202504-017/
+LOCATION:Amazon.co.jp
+END:VEVENT
+BEGIN:VEVENT
+UID:q38dn5SOsZc8Qi4dXrfZy
 SUMMARY:日がさ雨がさ×酒のみむら(岡山)『日本酒を楽しむ会』 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250308
 DTEND;VALUE=DATE:20250309
 DESCRIPTION:**Description**\nOn 2025年3月8日（土）\n\n**Address**\n東京都新宿区四谷3-9-11
@@ -16,9 +27,9 @@ DESCRIPTION:**Description**\nOn 2025年3月8日（土）\n\n**Address**\n東京�
 LOCATION:東京都新宿区四谷3-9-11\,  四谷シンコービル7F 日がさ雨がさ
 END:VEVENT
 BEGIN:VEVENT
-UID:WFRr8oM7tRoK2C4-LE2GH
+UID:FMNxnM0x_D_PST30dEHk6
 SUMMARY:シェア酒でシアワセ！with 三重テラス編 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250311
 DTEND;VALUE=DATE:20250312
 DESCRIPTION:**Description**\nOn 2025年3月11日（火）\n\n**Address**\n東京都中央区日本橋本町1-
@@ -27,9 +38,9 @@ DESCRIPTION:**Description**\nOn 2025年3月11日（火）\n\n**Address**\n東京
 LOCATION:東京都中央区日本橋本町1-4-12\, +NARU NIHONBASHI
 END:VEVENT
 BEGIN:VEVENT
-UID:7uhYwGQ7iauzQHp61PjYJ
+UID:S6zu9HTVoY7_16QyZtgDh
 SUMMARY:日本酒試飲会：テーマ「春」　＠お酒のセレクトショップVINSY Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250314
 DTEND;VALUE=DATE:20250324
 DESCRIPTION:**Description**\nRuns from 2025年3月14日（金） to 2025年3月23日（日）\n\n**
@@ -38,9 +49,9 @@ DESCRIPTION:**Description**\nRuns from 2025年3月14日（金） to 2025年3月2
 LOCATION:東京都中野区東中野3-1-9\, VINSY1F
 END:VEVENT
 BEGIN:VEVENT
-UID:s60SMwZ1EilUctWOHUCrv
+UID:WRyu25kxFXzB66NPF_02A
 SUMMARY:【土佐清水ワールド新橋】土佐鮮魚の寿司と高知の地酒 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250315
 DTEND;VALUE=DATE:20250316
 DESCRIPTION:**Description**\nOn 2025年3月15日（土）\n\n**Address**\n東京都港区新橋2-12-8
@@ -49,9 +60,9 @@ DESCRIPTION:**Description**\nOn 2025年3月15日（土）\n\n**Address**\n東京
 LOCATION:東京都港区新橋2-12-8\, GEMS新橋 土佐清水ワールド新橋店
 END:VEVENT
 BEGIN:VEVENT
-UID:EJiZcnT8vTwnmWi_l8GoT
+UID:iOqR9RMhn4WdU0A46cR8e
 SUMMARY:【明石ニューワールド】 出張寿司・明石焼・兵庫の地酒を堪能！ Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250316
 DTEND;VALUE=DATE:20250317
 DESCRIPTION:**Description**\nOn 2025年3月16日（日）\n\n**Address**\n東京都港区新橋2-16-1
@@ -60,9 +71,9 @@ DESCRIPTION:**Description**\nOn 2025年3月16日（日）\n\n**Address**\n東京
 LOCATION:東京都港区新橋2-16-1\,  ニュー新橋ビル 地下1階 明石ニューワールド 新橋店
 END:VEVENT
 BEGIN:VEVENT
-UID:ZgooU-5j-UVgPHAQZ_MDV
+UID:DJ3NYRTcn4FQD6S5XlYyr
 SUMMARY:新酒の地酒路今しか味わえない地酒の饗宴 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250316
 DTEND;VALUE=DATE:20250317
 DESCRIPTION:**Description**\nOn 2025年3月16日（日）\n\n**Address**\n東京都品川区中延3-7-1
@@ -71,9 +82,9 @@ DESCRIPTION:**Description**\nOn 2025年3月16日（日）\n\n**Address**\n東京
 LOCATION:東京都品川区中延3-7-10\, シュウ・サケ・コーポレーション
 END:VEVENT
 BEGIN:VEVENT
-UID:SQsGn_gDTvd4pKpb2AMBu
+UID:Q8h8L9xcldmI95Jrk1uHN
 SUMMARY:おでん＆地酒フェス 2025 in新小岩公園 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250320
 DTEND;VALUE=DATE:20250324
 DESCRIPTION:**Description**\nRuns from 2025年3月20日（木） to 2025年3月23日（日）\n\n**
@@ -82,9 +93,9 @@ DESCRIPTION:**Description**\nRuns from 2025年3月20日（木） to 2025年3月2
 LOCATION:東京都葛飾区西新小岩1-1-3\, 新小岩公園
 END:VEVENT
 BEGIN:VEVENT
-UID:gtnlPGq7jD34H-USUQMPx
+UID:nQ1xypvdQWmZpuSuC8-J-
 SUMMARY:日本酒シンポジウム『日本酒の未来を語る—伝統×イノベーション×グローバル展開』 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250321
 DTEND;VALUE=DATE:20250322
 DESCRIPTION:**Description**\nOn 2025年3月21日（金）\n\n**Address**\n東京都千代田区大手町1-6
@@ -93,9 +104,9 @@ DESCRIPTION:**Description**\nOn 2025年3月21日（金）\n\n**Address**\n東京
 LOCATION:東京都千代田区大手町1-6-1\, 大手町ビルヂング9階 AgVenture Lab
 END:VEVENT
 BEGIN:VEVENT
-UID:CwW3OYerc1M1GfmPww2k1
+UID:-Qd4z9RR4087nHjN0puYW
 SUMMARY:発酵の里こうざき酒蔵まつり2025 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250323
 DTEND;VALUE=DATE:20250324
 DESCRIPTION:**Description**\nOn 2025年3月23日（日）\n\n**Address**\n千葉県香取郡神崎町神崎本宿
@@ -104,9 +115,9 @@ DESCRIPTION:**Description**\nOn 2025年3月23日（日）\n\n**Address**\n千葉
 LOCATION:千葉県香取郡神崎町神崎本宿1916\, 鍋店 神崎酒造蔵 周辺
 END:VEVENT
 BEGIN:VEVENT
-UID:9vTN8Q5RJvG5U0hYtdIQ6
+UID:n7UKRaF0rMq7FkgGTy43g
 SUMMARY:日本酒の無料セミナー＆SSIサケ・アカデミー説明会 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250326
 DTEND;VALUE=DATE:20250331
 DESCRIPTION:**Description**\nRuns from 2025年3月26日（水） to 2025年3月30日（日）\n\n**
@@ -115,9 +126,9 @@ DESCRIPTION:**Description**\nRuns from 2025年3月26日（水） to 2025年3月3
 LOCATION:東京都文京区小石川1-15-17 \, TN小石川ビル7F SSIサケ・アカデミー
 END:VEVENT
 BEGIN:VEVENT
-UID:4dHUhh4WqCeDbM3mY2iIq
+UID:G6Sv6PipGNHOvj0uIKqDO
 SUMMARY:下町ハイカロリー&サワーフェス Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250328
 DTEND;VALUE=DATE:20250331
 DESCRIPTION:**Description**\nRuns from 2025年3月28日（金） to 2025年3月30日（日）\n\n**
@@ -126,9 +137,9 @@ DESCRIPTION:**Description**\nRuns from 2025年3月28日（金） to 2025年3月3
 LOCATION:東京都葛飾区西新小岩1-1-3\, 新小岩公園
 END:VEVENT
 BEGIN:VEVENT
-UID:s1q1QgQ1m0RtsvPpH_M5Y
+UID:Gu8uCmrgNPLSbfnBysMme
 SUMMARY:静岡の食と酒を楽しむ会 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250329
 DTEND;VALUE=DATE:20250330
 DESCRIPTION:**Description**\nOn 2025年3月29日（土）\n\n**Address**\n東京都港区芝5-36-4 
@@ -137,9 +148,9 @@ DESCRIPTION:**Description**\nOn 2025年3月29日（土）\n\n**Address**\n東京
 LOCATION:東京都港区芝5-36-4 \, 港区産業振興センター11F 大ホール
 END:VEVENT
 BEGIN:VEVENT
-UID:h_A09ic8VLQUY6xrSOpWF
+UID:XDoEs3oixh6J2u1a6_49O
 SUMMARY:第27回 和酒フェスin中目黒 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250329
 DTEND;VALUE=DATE:20250331
 DESCRIPTION:**Description**\nRuns from 2025年3月29日（土） to 2025年3月30日（日）\n\n**
@@ -148,9 +159,9 @@ DESCRIPTION:**Description**\nRuns from 2025年3月29日（土） to 2025年3月3
 LOCATION:東京都目黒区上目黒2-1-1\, 中目黒GTタワー前広場
 END:VEVENT
 BEGIN:VEVENT
-UID:0nBXEyPcgSRc27jk9RXIf
+UID:vYt1qZsoDXMnn0-lK_w_e
 SUMMARY:第2回 西八マルシェ SakeTerrace®SAKE DOBUROKU FES® Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250401
 DTEND;VALUE=DATE:20250414
 DESCRIPTION:**Description**\nRuns from 2025年4月1日（火） to 2025年4月13日（日）\n\n**A
@@ -159,9 +170,9 @@ DESCRIPTION:**Description**\nRuns from 2025年4月1日（火） to 2025年4月13
 LOCATION:東京都八王子市千人町2-3-3佐藤ビル2階\, 西八 酒テラス® SakeTerrace®
 END:VEVENT
 BEGIN:VEVENT
-UID:BP2GIzEOuldkLgF7N8xwN
+UID:LgZDmx_j9YmefsG8KFngv
 SUMMARY:ふるさとグルメてらす～東北まつり～　第一部 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250404
 DTEND;VALUE=DATE:20250407
 DESCRIPTION:**Description**\nRuns from 2025年4月4日（金） to 2025年4月6日（日）\n\n**Ad
@@ -170,9 +181,9 @@ DESCRIPTION:**Description**\nRuns from 2025年4月4日（金） to 2025年4月6�
 LOCATION:東京都台東区上野3-26\, 御徒町南口駅前広場（おかちまちパンダ広場）
 END:VEVENT
 BEGIN:VEVENT
-UID:pSpAvh6D1XlLrbwZG45lo
+UID:aIQ3gW9cd9maOlNBFCHbi
 SUMMARY:醸す落語ーわたし・Meのための落語会ー出演：桂九ノ一(落語家) Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250404
 DTEND;VALUE=DATE:20250405
 DESCRIPTION:**Description**\nOn 2025年4月4日（金）\n\n**Address**\n東京都文京区根津2-34-2
@@ -181,9 +192,9 @@ DESCRIPTION:**Description**\nOn 2025年4月4日（金）\n\n**Address**\n東京�
 LOCATION:東京都文京区根津2-34-24\, 伝承館 直会naorai (落語会:2階、懇親会:1階)
 END:VEVENT
 BEGIN:VEVENT
-UID:NX_z8vXLMcuokf6ff3_6q
+UID:T2hia10drvAMcGkUxCKOI
 SUMMARY:SSIサケ・アカデミー開校記念特別セミナー＆フリーテイスティング Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250406
 DTEND;VALUE=DATE:20250407
 DESCRIPTION:**Description**\nOn 2025年4月6日（日）\n\n**Address**\n東京都文京区小石川1-15-
@@ -192,9 +203,9 @@ DESCRIPTION:**Description**\nOn 2025年4月6日（日）\n\n**Address**\n東京�
 LOCATION:東京都文京区小石川1-15-17\, TN小石川ビル7F SSIサケ・アカデミー
 END:VEVENT
 BEGIN:VEVENT
-UID:VRM4bPDdW5nJDYNLY8xH4
+UID:ANFuzq6_7OjLeimhTJ-9g
 SUMMARY:深谷グルメフェス　漬物・酒BAR Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250406
 DTEND;VALUE=DATE:20250407
 DESCRIPTION:**Description**\nOn 2025年4月6日（日）\n\n**Address**\n埼玉県深谷市花園114\n深
@@ -203,9 +214,9 @@ DESCRIPTION:**Description**\nOn 2025年4月6日（日）\n\n**Address**\n埼玉�
 LOCATION:埼玉県深谷市花園114\, 深谷テラスパーク 円形広場
 END:VEVENT
 BEGIN:VEVENT
-UID:qqrF-qk3dlLSqllthoVLG
+UID:tm_hDD-jKvTKLEJMiOxbp
 SUMMARY:新世代栃木の酒 下野杜氏新酒発表 2025 in東京 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250409
 DTEND;VALUE=DATE:20250410
 DESCRIPTION:**Description**\nOn 2025年4月9日（水）\n\n**Address**\n東京都品川区北品川5-5-1
@@ -214,9 +225,9 @@ DESCRIPTION:**Description**\nOn 2025年4月9日（水）\n\n**Address**\n東京�
 LOCATION:東京都品川区北品川5-5-15\, 大崎ブライトコアホール 
 END:VEVENT
 BEGIN:VEVENT
-UID:tWGVtwW4u9rWYOZ-XbyOl
+UID:LansTPrci8MTufXworD1Q
 SUMMARY:dancyu祭2025 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250412
 DTEND;VALUE=DATE:20250414
 DESCRIPTION:**Description**\nRuns from 2025年4月12日（土） to 2025年4月13日（日）\n\n**
@@ -225,9 +236,9 @@ DESCRIPTION:**Description**\nRuns from 2025年4月12日（土） to 2025年4月1
 LOCATION:東京都新宿区西新宿2-6-1\, 新宿住友ビル 三角広場
 END:VEVENT
 BEGIN:VEVENT
-UID:SbZQRX4ButdTNJmvmgtu5
+UID:QagTaB3GvAzP-WjNKWQ7t
 SUMMARY:日本酒のTasting Training Gym 4月 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250412
 DTEND;VALUE=DATE:20250413
 DESCRIPTION:**Description**\nOn 2025年4月12日（土）\n\n**Address**\n東京都文京区小石川1-15
@@ -236,9 +247,9 @@ DESCRIPTION:**Description**\nOn 2025年4月12日（土）\n\n**Address**\n東京
 LOCATION:東京都文京区小石川1-15-17 \, TN小石川ビル7F SSIサケ・アカデミー
 END:VEVENT
 BEGIN:VEVENT
-UID:Rd5y_nLF0MzWzzp18sDsP
+UID:V0HaJKjZ4fE7eDK5UOmcV
 SUMMARY:日本酒と料理のペアリング体験① -2025年春編- Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250417
 DTEND;VALUE=DATE:20250420
 DESCRIPTION:**Description**\nRuns from 2025年4月17日（木） to 2025年4月19日（土）\n\n**
@@ -247,20 +258,9 @@ DESCRIPTION:**Description**\nRuns from 2025年4月17日（木） to 2025年4月1
 LOCATION:東京都文京区小石川1-15-17 \, TN小石川ビル7F SSIサケ・アカデミー
 END:VEVENT
 BEGIN:VEVENT
-UID:YEoam-Lefahnagu1z5l6e
-SUMMARY:ふるさとグルメてらす～東北まつり～　第二部 Sake Event
-DTSTAMP:20250407T125024Z
-DTSTART;VALUE=DATE:20250418
-DTEND;VALUE=DATE:20250421
-DESCRIPTION:**Description**\nRuns from 2025年4月18日（金） to 2025年4月20日（日）\n\n**
-	Address**\n東京都台東区上野3-26\n御徒町南口駅前広場（おかちまちパンダ広場）\n\n**Link**\nhttps://tokyo-
-	sake-calendar.com/event/202504-013/
-LOCATION:東京都台東区上野3-26\, 御徒町南口駅前広場（おかちまちパンダ広場）
-END:VEVENT
-BEGIN:VEVENT
-UID:zLLwUIKEa0xe2_cimTjtW
+UID:HBv7uzkWc9nUO-fLxEiZX
 SUMMARY:日本酒グラスセミナー ～木本硝子 サケグラスセレクション～同時開催：日本酒ナビゲーター認定セミナー Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250418
 DTEND;VALUE=DATE:20250419
 DESCRIPTION:**Description**\nOn 2025年4月18日（金）\n\n**Address**\n東京都新宿区四谷2-14\
@@ -269,9 +269,9 @@ DESCRIPTION:**Description**\nOn 2025年4月18日（金）\n\n**Address**\n東京
 LOCATION:東京都新宿区四谷2-14\, 白馬ビル501号室 わだえみのわいん塾
 END:VEVENT
 BEGIN:VEVENT
-UID:PT4F0zKwzGhpP-IsVc8ZL
+UID:Y9BPKVZLzD0jqhjMIWf3l
 SUMMARY:CRAFT SAKE WEEK 2025 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250418
 DTEND;VALUE=DATE:20250430
 DESCRIPTION:**Description**\nRuns from 2025年4月18日（金） to 2025年4月29日（火）\n\n**
@@ -280,9 +280,20 @@ DESCRIPTION:**Description**\nRuns from 2025年4月18日（金） to 2025年4月2
 LOCATION:東京都港区六本木6-9-1\, 六本木ヒルズアリーナ
 END:VEVENT
 BEGIN:VEVENT
-UID:ripiYx4Ww5x33_LYDrV2r
+UID:F4r6c4WqkpdlixyDjrHom
+SUMMARY:ふるさとグルメてらす～東北まつり～　第二部 Sake Event
+DTSTAMP:20250414T125014Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250421
+DESCRIPTION:**Description**\nRuns from 2025年4月18日（金） to 2025年4月20日（日）\n\n**
+	Address**\n東京都台東区上野3-26\n御徒町南口駅前広場（おかちまちパンダ広場）\n\n**Link**\nhttps://tokyo-
+	sake-calendar.com/event/202504-013/
+LOCATION:東京都台東区上野3-26\, 御徒町南口駅前広場（おかちまちパンダ広場）
+END:VEVENT
+BEGIN:VEVENT
+UID:_zjm9yRElieM_NRag3C40
 SUMMARY:シェア酒でシアワセ！｜新生活応援編 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250419
 DTEND;VALUE=DATE:20250420
 DESCRIPTION:**Description**\nOn 2025年4月19日（土）\n\n**Address**\n東京都中央区日本橋本町1丁
@@ -291,9 +302,31 @@ DESCRIPTION:**Description**\nOn 2025年4月19日（土）\n\n**Address**\n東京
 LOCATION:東京都中央区日本橋本町1丁目4−12 \, カネダ日本橋センタービルディング1階
 END:VEVENT
 BEGIN:VEVENT
-UID:T2W-AhKVXYlif1gl9jNko
+UID:p_UKONqe4nazq1zSWOCI4
+SUMMARY:田植え＆稲刈り体験 〜お米と土と阿部酒造と〜（オンライン＆現地開催） Sake Event
+DTSTAMP:20250414T125014Z
+DTSTART;VALUE=DATE:20250422
+DTEND;VALUE=DATE:20250423
+DESCRIPTION:**Description**\nOn 2025年4月22日（火）\n\n**Address**\n■開催場所\n・オンライン
+	：zoomリンクをおおくりします\n・田植え＆稲刈り体験：新潟県柏崎市　\n※詳細の場所は参加者確定後お知らせいたします。\n\n**Link**\
+	nhttps://tokyo-sake-calendar.com/event/202504-016/
+LOCATION:■開催場所\, ・オンライン：zoomリンクをおおくりします\, ・田植え＆稲刈り体験：新潟県柏崎市　\, ※詳細の場所は参加者確定
+	後お知らせいたします。
+END:VEVENT
+BEGIN:VEVENT
+UID:lgKtBGx7xUk11lE3amUlg
+SUMMARY:ご好評につき、ＫＯＪＩの日本酒会を開催！ 日本酒の魅力に酔いしれる、豊かなひとときをご一緒に Sake Event
+DTSTAMP:20250414T125014Z
+DTSTART;VALUE=DATE:20250425
+DTEND;VALUE=DATE:20250426
+DESCRIPTION:**Description**\nOn 2025年4月25日（金）\n\n**Address**\n東京都千代田区東神田１丁目
+	２−２\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/202504-015/
+LOCATION:東京都千代田区東神田１丁目２−２
+END:VEVENT
+BEGIN:VEVENT
+UID:RBSPB9-ttvwNvlx91THfd
 SUMMARY:一都三県蔵元との交流会 2025 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250426
 DTEND;VALUE=DATE:20250427
 DESCRIPTION:**Description**\nOn 2025年4月26日（土）\n\n**Address**\n東京都千代田区有楽町2-1
@@ -302,9 +335,9 @@ DESCRIPTION:**Description**\nOn 2025年4月26日（土）\n\n**Address**\n東京
 LOCATION:東京都千代田区有楽町2-10-1\, 東京交通会館12F ダイヤモンドホール
 END:VEVENT
 BEGIN:VEVENT
-UID:M421I8RkgQHgnG8mQGRvK
+UID:MkRr8VuzsIGlxM7rpHAfs
 SUMMARY:活弁 日本酒 酒菜「茶屋 しゃんりん」 春 第四夜：活動写真弁士 尾田直彪 Sake Event
-DTSTAMP:20250407T125024Z
+DTSTAMP:20250414T125014Z
 DTSTART;VALUE=DATE:20250526
 DTEND;VALUE=DATE:20250527
 DESCRIPTION:**Description**\nOn 2025年5月26日（月）\n\n**Address**\n東京都豊島区駒込1-40-
