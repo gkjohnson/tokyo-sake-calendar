@@ -5,9 +5,9 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:IV_pqfvm9o17u9QQ2_3kz
+UID:MI1Qb0VN-rJWNdyDKbGE-
 SUMMARY:【予約不要】新酒＋α♥日本酒試飲販売会(12/6～12/14) Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20251206
 DTEND;VALUE=DATE:20251215
 DESCRIPTION:**Description**\nRuns from 2025年12月6日（土） to 2025年12月14日（日）\n\n*
@@ -18,9 +18,9 @@ DESCRIPTION:**Description**\nRuns from 2025年12月6日（土） to 2025年12月
 LOCATION:東京都中野区東中野3－1－9－VINSY1F
 END:VEVENT
 BEGIN:VEVENT
-UID:Y89SBWKDN17GUMY16lL4i
+UID:YEgf3xn1eevTkN_KPJaLk
 SUMMARY:～おもまい酒場～『金夜のクリスマス会&さわBirthday』by OMOROI.mainichi #26 Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20251212
 DTEND;VALUE=DATE:20251213
 DESCRIPTION:**Description**\nOn 2025年12月12日（金）\n\n**Address**\n場所：レンタルキッチンス
@@ -33,9 +33,9 @@ LOCATION:場所：レンタルキッチンスペースValvex大井町店\, 東�
 	北線／東急大井町線／りんかい線 大井町駅：徒歩5分
 END:VEVENT
 BEGIN:VEVENT
-UID:smRCNRzO7aqRnzkLqehOT
+UID:NquH9KXydAjWlJwG1OVhU
 SUMMARY:にほんしゅ ひと巡り ー新橋 2025ー Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251214
 DESCRIPTION:**Description**\nOn 2025年12月13日（土）\n\n**Address**\n東京都港区新橋1-12-
@@ -45,9 +45,9 @@ DESCRIPTION:**Description**\nOn 2025年12月13日（土）\n\n**Address**\n東�
 LOCATION:東京都港区新橋1-12-9 新橋プレイス3階　MEETING SPACE AP新橋3階
 END:VEVENT
 BEGIN:VEVENT
-UID:KxjQrCpSxJA_kqOVNa8wu
+UID:t3QFOpg4YFteiALp17krW
 SUMMARY:みんなでマルシェ八王子 Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20251214
 DTEND;VALUE=DATE:20251215
 DESCRIPTION:**Description**\nOn 2025年12月14日（日）\n\n**Address**\n東京都八王子市犬目町56
@@ -57,9 +57,9 @@ DESCRIPTION:**Description**\nOn 2025年12月14日（日）\n\n**Address**\n東�
 LOCATION:東京都八王子市犬目町56\, 八王子市立陶鎔小学校
 END:VEVENT
 BEGIN:VEVENT
-UID:QRqSpygBdq4n_fISmAPew
+UID:p0e8TfLR1HA68iym0GzIZ
 SUMMARY:シェア酒でシアワセ！｜2025大忘年会編！ Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20251216
 DTEND;VALUE=DATE:20251217
 DESCRIPTION:**Description**\nOn 2025年12月16日（火）\n\n**Address**\n+NARU NIHONB
@@ -70,10 +70,10 @@ DESCRIPTION:**Description**\nOn 2025年12月16日（火）\n\n**Address**\n+NARU
 LOCATION:+NARU NIHONBASHI\, 中央区日本橋本町１丁目４−１２ カネダ日本橋センタービルディング 1階
 END:VEVENT
 BEGIN:VEVENT
-UID:KN8LmEg4ptWMvswjIjZKO
+UID:Hl2QFEaNMrw-ICBnn-LFs
 SUMMARY:【シーシャ×日本酒】The Sanctuary - Sake & Shisha Hideaway - 聖夜に舞う、煙と盃の調べ Sak
 	e Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20251221
 DESCRIPTION:**Description**\nOn 2025年12月20日（土）\n\n**Address**\n豊島区西池袋2丁目35-
@@ -84,9 +84,9 @@ DESCRIPTION:**Description**\nOn 2025年12月20日（土）\n\n**Address**\n豊�
 LOCATION:豊島区西池袋2丁目35-9北海ビル 1F シーシャカフェ&バー 煙仄2nd 池袋店
 END:VEVENT
 BEGIN:VEVENT
-UID:DHatFBlY9GkjfJpRrWyLv
+UID:JDV0u3XPddBzpKBQHxEFT
 SUMMARY:【予約不要】新酒＋α第2弾！日本酒試飲販売会(12/20～1/4) Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20251220
 DTEND;VALUE=DATE:20260105
 DESCRIPTION:**Description**\nRuns from 2025年12月20日（土） to 2026年1月4日（日）\n\n**
@@ -97,9 +97,9 @@ DESCRIPTION:**Description**\nRuns from 2025年12月20日（土） to 2026年1月
 LOCATION:東京都中野区東中野3－1－9－VINSY1F
 END:VEVENT
 BEGIN:VEVENT
-UID:82gyvLQII1f5khpJQkzOV
+UID:Zr-0CRlcStCMQnHYW8GsU
 SUMMARY:北陸3県の酒と肴LOVER Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251226
 DESCRIPTION:**Description**\nRuns from 2025年11月28日（金） to 2025年12月25日（木）\n\n
@@ -109,9 +109,9 @@ DESCRIPTION:**Description**\nRuns from 2025年11月28日（金） to 2025年12�
 LOCATION:JR高輪ゲートウェイ駅 イベントスペース マチアイ(南改札外 券売機横)
 END:VEVENT
 BEGIN:VEVENT
-UID:lvrSZwyd0isXAfgjKifWv
+UID:lFSeaWF9kIJMAYqeNefsM
 SUMMARY:迎春2026祝酒おせち日本酒どぶろくペアリング Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260105
 DESCRIPTION:**Description**\nRuns from 2026年1月1日（木） to 2026年1月4日（日）\n\n**Ad
@@ -122,9 +122,36 @@ DESCRIPTION:**Description**\nRuns from 2026年1月1日（木） to 2026年1月4�
 LOCATION:東京都八王子市千人町2-3-3佐藤ビル2階
 END:VEVENT
 BEGIN:VEVENT
-UID:zfjUCE_ctqfjDYBwWhIm7
+UID:30RO2qpF8HvGeZLgtt-SJ
+SUMMARY:【予約不要】新酒第3弾+α！日本酒試飲販売会(1/10～1/25) Sake Event
+DTSTAMP:20260112T124106Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260126
+DESCRIPTION:**Description**\nRuns from 2026年1月10日（土） to 2026年1月25日（日）\n\n**
+	Address**\n東京都中野区東中野3－1－9－VINSY1F\nお酒のセレクトショップVINSY\n\n**Link**\nhttps://t
+	okyo-sake-calendar.com/event/%e3%80%90%e4%ba%88%e7%b4%84%e4%b8%8d%e8%a6%81
+	%e3%80%91%e6%96%b0%e9%85%92%e7%ac%ac3%e5%bc%be%ce%b1%ef%bc%81%e6%97%a5%e6%
+	9c%ac%e9%85%92%e8%a9%a6%e9%a3%b2%e8%b2%a9%e5%a3%b2%e4%bc%9a1-10%ef%bd%9e1-
+	25/
+LOCATION:東京都中野区東中野3－1－9－VINSY1F\, お酒のセレクトショップVINSY
+END:VEVENT
+BEGIN:VEVENT
+UID:GH59aaJ_JPHak8eoBrSMd
+SUMMARY:赤煉瓦酒造工場〜飛鳥山酵母の物語〜 Sake Event
+DTSTAMP:20260112T124106Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260213
+DESCRIPTION:**Description**\nRuns from 2026年1月15日（木） to 2026年2月12日（木）\n\n**
+	Address**\n東京都北区滝野川2-6-30\n\n**Link**\nhttps://tokyo-sake-calendar.com/eve
+	nt/%e8%b5%a4%e7%85%89%e7%93%a6%e9%85%92%e9%80%a0%e5%b7%a5%e5%a0%b4%e3%80%9
+	c%e9%a3%9b%e9%b3%a5%e5%b1%b1%e9%85%b5%e6%af%8d%e3%81%ae%e7%89%a9%e8%aa%9e%
+	e3%80%9c/
+LOCATION:東京都北区滝野川2-6-30
+END:VEVENT
+BEGIN:VEVENT
+UID:QjZu2Yoy1iHokFtLI9gPJ
 SUMMARY:シェア酒でシアワセ！｜2026大新年会編！ Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20260122
 DTEND;VALUE=DATE:20260123
 DESCRIPTION:**Description**\nOn 2026年1月22日（木）\n\n**Address**\n+NARU NIHONBA
@@ -135,9 +162,9 @@ DESCRIPTION:**Description**\nOn 2026年1月22日（木）\n\n**Address**\n+NARU 
 LOCATION:+NARU NIHONBASHI\, 中央区日本橋本町１丁目４−１２ カネダ日本橋センタービルディング 1階
 END:VEVENT
 BEGIN:VEVENT
-UID:sC0HdX1EMgZqTFd9NUNva
+UID:UIXQ9pcy9YVd1SSLntIxL
 SUMMARY:1/23-1/25 冬祭！地酒&地肴2026 in 代々木　ご当地酒蔵めぐり　飲み放題前売り券　発売中！ Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260126
 DESCRIPTION:**Description**\nRuns from 2026年1月23日（金） to 2026年1月25日（日）\n\n**
@@ -148,9 +175,9 @@ DESCRIPTION:**Description**\nRuns from 2026年1月23日（金） to 2026年1月2
 LOCATION:代々木公園B地区イベント広場
 END:VEVENT
 BEGIN:VEVENT
-UID:v70WAopxY88jyhERjL7y2
+UID:9ryJEbdqgeSvbVE-Gw1fe
 SUMMARY:第21期『日本酒ナビゲーター』認定セミナー開催 Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 DESCRIPTION:**Description**\nOn 2026年1月31日（土）\n\n**Address**\n東京都文京区小石川１丁目１
@@ -161,9 +188,22 @@ DESCRIPTION:**Description**\nOn 2026年1月31日（土）\n\n**Address**\n東京
 LOCATION:東京都文京区小石川１丁目１５−１７ ＴＮ小石川ビル 7F　サケアカデミー
 END:VEVENT
 BEGIN:VEVENT
-UID:2cbnOgdPdkgYgVXHKcE5Z
+UID:cIY8PMWA_TcPBg61IHw8d
+SUMMARY:『日本酒の魅力再発見！ 江戸から続く酒蔵を巡る！』 Sake Event
+DTSTAMP:20260112T124106Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+DESCRIPTION:**Description**\nOn 2026年2月28日（土）\n\n**Address**\n福生市、相模原市\n\n*
+	*Link**\nhttps://tokyo-sake-calendar.com/event/%e3%80%8e%e6%97%a5%e6%9c%ac
+	%e9%85%92%e3%81%ae%e9%ad%85%e5%8a%9b%e5%86%8d%e7%99%ba%e8%a6%8b%ef%bc%81-%
+	e6%b1%9f%e6%88%b8%e3%81%8b%e3%82%89%e7%b6%9a%e3%81%8f%e9%85%92%e8%94%b5%e3
+	%82%92%e5%b7%a1%e3%82%8b/
+LOCATION:福生市、相模原市
+END:VEVENT
+BEGIN:VEVENT
+UID:zR2TbdaXylt2lgCbIXpPh
 SUMMARY:＼北信州木島平村 銘酒試飲会／ Sake Event
-DTSTAMP:20260105T124038Z
+DTSTAMP:20260112T124106Z
 DTSTART;VALUE=DATE:20260308
 DTEND;VALUE=DATE:20260310
 DESCRIPTION:**Description**\nRuns from 2026年3月8日（日） to 2026年3月9日（月）\n\n**Ad
