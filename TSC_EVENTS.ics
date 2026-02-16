@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ZOU2PpfkWHpHY8yA6-2WK
+SUMMARY:迎春2026祝酒おせち日本酒どぶろくペアリング Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260105
+DESCRIPTION:**Description**\nRuns from 2026年1月1日（木） to 2026年1月4日（日）\n\n**Ad
+	dress**\n東京都八王子市千人町2-3-3佐藤ビル2階\n\n**Link**\nhttps://tokyo-sake-calendar.co
+	m/event/%e8%bf%8e%e6%98%a52026%e7%a5%9d%e9%85%92%e3%81%8a%e3%81%9b%e3%81%a
+	1%e6%97%a5%e6%9c%ac%e9%85%92%e3%81%a9%e3%81%b6%e3%82%8d%e3%81%8f%e3%83%9a%
+	e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0/
+LOCATION:東京都八王子市千人町2-3-3佐藤ビル2階
+END:VEVENT
+BEGIN:VEVENT
+UID:rjCER5gBVE54IEyLwaMn-
+SUMMARY:【予約不要】新酒＋α第2弾！日本酒試飲販売会(12/20～1/4) Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20260105
+DESCRIPTION:**Description**\nRuns from 2025年12月20日（土） to 2026年1月4日（日）\n\n**
+	Address**\n東京都中野区東中野3－1－9－VINSY1F\n\n**Link**\nhttps://tokyo-sake-calendar
+	.com/event/%e3%80%90%e4%ba%88%e7%b4%84%e4%b8%8d%e8%a6%81%e3%80%91%e6%96%b0
+	%e9%85%92%ef%bc%8b%ce%b1%e7%ac%ac2%e5%bc%be%ef%bc%81%e6%97%a5%e6%9c%ac%e9%
+	85%92%e8%a9%a6%e9%a3%b2%e8%b2%a9%e5%a3%b2%e4%bc%9a12-20/
+LOCATION:東京都中野区東中野3－1－9－VINSY1F
+END:VEVENT
+BEGIN:VEVENT
+UID:f64quuc1u5rIIJwfHMV3A
+SUMMARY:【予約不要】新酒第3弾+α！日本酒試飲販売会(1/10～1/25) Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260126
+DESCRIPTION:**Description**\nRuns from 2026年1月10日（土） to 2026年1月25日（日）\n\n**
+	Address**\n東京都中野区東中野3－1－9－VINSY1F\nお酒のセレクトショップVINSY\n\n**Link**\nhttps://t
+	okyo-sake-calendar.com/event/%e3%80%90%e4%ba%88%e7%b4%84%e4%b8%8d%e8%a6%81
+	%e3%80%91%e6%96%b0%e9%85%92%e7%ac%ac3%e5%bc%be%ce%b1%ef%bc%81%e6%97%a5%e6%
+	9c%ac%e9%85%92%e8%a9%a6%e9%a3%b2%e8%b2%a9%e5%a3%b2%e4%bc%9a1-10%ef%bd%9e1-
+	25/
+LOCATION:東京都中野区東中野3－1－9－VINSY1F\, お酒のセレクトショップVINSY
+END:VEVENT
+BEGIN:VEVENT
+UID:t08bwcvXVITEG5q7zNBIG
+SUMMARY:赤煉瓦酒造工場〜飛鳥山酵母の物語〜 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260213
+DESCRIPTION:**Description**\nRuns from 2026年1月15日（木） to 2026年2月12日（木）\n\n**
+	Address**\n東京都北区滝野川2-6-30\n\n**Link**\nhttps://tokyo-sake-calendar.com/eve
+	nt/%e8%b5%a4%e7%85%89%e7%93%a6%e9%85%92%e9%80%a0%e5%b7%a5%e5%a0%b4%e3%80%9
+	c%e9%a3%9b%e9%b3%a5%e5%b1%b1%e9%85%b5%e6%af%8d%e3%81%ae%e7%89%a9%e8%aa%9e%
+	e3%80%9c/
+LOCATION:東京都北区滝野川2-6-30
+END:VEVENT
+BEGIN:VEVENT
+UID:6-Kzwhw9SzwnWOxPgJyai
+SUMMARY:シェア酒でシアワセ！｜2026大新年会編！ Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+DESCRIPTION:**Description**\nOn 2026年1月22日（木）\n\n**Address**\n+NARU NIHONBA
+	SHI\n中央区日本橋本町１丁目４−１２ カネダ日本橋センタービルディング 1階\n\n**Link**\nhttps://tokyo-sake-c
+	alendar.com/event/%e3%82%b7%e3%82%a7%e3%82%a2%e9%85%92%e3%81%a7%e3%82%b7%e
+	3%82%a2%e3%83%af%e3%82%bb%ef%bc%81%ef%bd%9c2026%e5%a4%a7%e6%96%b0%e5%b9%b4
+	%e4%bc%9a%e7%b7%a8%ef%bc%81/
+LOCATION:+NARU NIHONBASHI\, 中央区日本橋本町１丁目４−１２ カネダ日本橋センタービルディング 1階
+END:VEVENT
+BEGIN:VEVENT
+UID:DQmnmyoG5spm4zA5pRh2i
+SUMMARY:1/23-1/25 冬祭！地酒&地肴2026 in 代々木　ご当地酒蔵めぐり　飲み放題前売り券　発売中！ Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260126
+DESCRIPTION:**Description**\nRuns from 2026年1月23日（金） to 2026年1月25日（日）\n\n**
+	Address**\n代々木公園B地区イベント広場\n\n**Link**\nhttps://tokyo-sake-calendar.com/eve
+	nt/1-23-1-25-%e5%86%ac%e7%a5%ad%ef%bc%81%e5%9c%b0%e9%85%92%e5%9c%b0%e8%82%
+	b42026-in-%e4%bb%a3%e3%80%85%e6%9c%a8%e3%80%80%e3%81%94%e5%bd%93%e5%9c%b0%
+	e9%85%92%e8%94%b5%e3%82%81%e3%81%90%e3%82%8a/
+LOCATION:代々木公園B地区イベント広場
+END:VEVENT
+BEGIN:VEVENT
+UID:ykZ7vrn_QFnTqZoKH-d3l
+SUMMARY:第21期『日本酒ナビゲーター』認定セミナー開催 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+DESCRIPTION:**Description**\nOn 2026年1月31日（土）\n\n**Address**\n東京都文京区小石川１丁目１
+	５−１７ ＴＮ小石川ビル 7F　サケアカデミー\n\n**Link**\nhttps://tokyo-sake-calendar.com/event
+	/%e7%ac%ac21%e6%9c%9f%e3%80%8e%e6%97%a5%e6%9c%ac%e9%85%92%e3%83%8a%e3%83%9
+	3%e3%82%b2%e3%83%bc%e3%82%bf%e3%83%bc%e3%80%8f%e8%aa%8d%e5%ae%9a%e3%82%bb%
+	e3%83%9f%e3%83%8a%e3%83%bc%e9%96%8b%e5%82%ac/
+LOCATION:東京都文京区小石川１丁目１５−１７ ＴＮ小石川ビル 7F　サケアカデミー
+END:VEVENT
+BEGIN:VEVENT
+UID:RERMMZRTvpw6HDBxYNsfu
+SUMMARY:【予約不要】ALL新酒第4弾！日本酒試飲販売会(1/31～2/15) Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260216
+DESCRIPTION:**Description**\nRuns from 2026年1月31日（土） to 2026年2月15日（日）\n\n**
+	Address**\n東京都中野区東中野3－1－9－VINSY　1F\n\n**Link**\nhttps://tokyo-sake-calenda
+	r.com/event/%e3%80%90%e4%ba%88%e7%b4%84%e4%b8%8d%e8%a6%81%e3%80%91all%e6%9
+	6%b0%e9%85%92%e7%ac%ac4%e5%bc%be%ef%bc%81%e6%97%a5%e6%9c%ac%e9%85%92%e8%a9
+	%a6%e9%a3%b2%e8%b2%a9%e5%a3%b2%e4%bc%9a1-31%ef%bd%9e2-15/
+LOCATION:東京都中野区東中野3－1－9－VINSY　1F
+END:VEVENT
+BEGIN:VEVENT
+UID:TdPndH1TBtSkTaYerxQVO
+SUMMARY:秋田の美酒「天の戸」を呑み・感じる Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+DESCRIPTION:**Description**\nOn 2026年2月7日（土）\n\n**Address**\n会場： アキタコアベース\n
+	東京都中央区京橋二丁目６番１３号京橋ヨツギビル１F\n\n**Link**\nhttps://tokyo-sake-calendar.com/eve
+	nt/%e7%a7%8b%e7%94%b0%e3%81%ae%e7%be%8e%e9%85%92%e3%80%8c%e5%a4%a9%e3%81%a
+	e%e6%88%b8%e3%80%8d%e3%82%92%e5%91%91%e3%81%bf%e3%83%bb%e6%84%9f%e3%81%98%
+	e3%82%8b/
+LOCATION:会場： アキタコアベース\, 東京都中央区京橋二丁目６番１３号京橋ヨツギビル１F
+END:VEVENT
+BEGIN:VEVENT
+UID:UInCMnHsa0WmDAvDwJDQh
+SUMMARY:～おもまい酒場～『チョコレート×日本酒の、甘くてほろ酔いな夜』 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+DESCRIPTION:**Description**\nOn 2026年2月7日（土）\n\n**Address**\nレンタルキッチンスペースVa
+	lvex 大井町店\n〒140-0014　東京都品川区南品川6丁目12-21 Valvex 地下1F\n\n**Link**\nhttps://to
+	kyo-sake-calendar.com/event/%ef%bd%9e%e3%81%8a%e3%82%82%e3%81%be%e3%81%84%
+	e9%85%92%e5%a0%b4%ef%bd%9e%e3%80%8e%e3%83%81%e3%83%a7%e3%82%b3%e3%83%ac%e3
+	%83%bc%e3%83%88x%e6%97%a5%e6%9c%ac%e9%85%92%e3%81%ae%e3%80%81%e7%94%98/
+LOCATION:レンタルキッチンスペースValvex 大井町店\, 〒140-0014　東京都品川区南品川6丁目12-21 Valvex 地下1F
+END:VEVENT
+BEGIN:VEVENT
+UID:ugWjgxjPsMgj8cysJNzWK
+SUMMARY:虎連坊大手町店の「蔵元の解説付き 酒肴ビュッフェ付き試飲会　2026早春の酒祭り Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+DESCRIPTION:**Description**\nOn 2026年2月12日（木）\n\n**Address**\n東京都千代田区大手町1-5
+	-1大手町ファーストスクエア イーストタワーB1\n\n**Link**\nhttps://tokyo-sake-calendar.com/even
+	t/%e8%99%8e%e9%80%a3%e5%9d%8a%e5%a4%a7%e6%89%8b%e7%94%ba%e5%ba%97%e3%81%ae
+	%e3%80%8c%e8%94%b5%e5%85%83%e3%81%ae%e8%a7%a3%e8%aa%ac%e4%bb%98%e3%81%8d-%
+	e9%85%92%e8%82%b4%e3%83%93%e3%83%a5%e3%83%83%e3%83%95/
+LOCATION:東京都千代田区大手町1-5-1大手町ファーストスクエア イーストタワーB1
+END:VEVENT
+BEGIN:VEVENT
+UID:ODgwBM98vYVlKwlwZO-RE
+SUMMARY:（岐阜県）小左衛門の会 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+DESCRIPTION:**Description**\nOn 2026年2月15日（日）\n\n**Address**\n東京都世田谷区三軒茶屋2-
+	14-10 ローヤルマンション 1F「日本酒つみりの」\n\n**Link**\nhttps://tokyo-sake-calendar.com/e
+	vent/%ef%bc%88%e5%b2%90%e9%98%9c%e7%9c%8c%ef%bc%89%e5%b0%8f%e5%b7%a6%e8%a1
+	%9b%e9%96%80%e3%81%ae%e4%bc%9a/
+LOCATION:東京都世田谷区三軒茶屋2-14-10 ローヤルマンション 1F「日本酒つみりの」
+END:VEVENT
+BEGIN:VEVENT
+UID:fuxYo3v4tUYhssMu7rUY3
+SUMMARY:虎連坊八重洲店の「蔵元の解説付き 酒肴ビュッフェ付き試飲会　2026早春の酒祭り Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+DESCRIPTION:**Description**\nOn 2026年2月17日（火）\n\n**Address**\n東京都中央区八重洲1-7-
+	20八重洲口会館B1\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/%e8%99%8e%e9
+	%80%a3%e5%9d%8a%e5%85%ab%e9%87%8d%e6%b4%b2%e5%ba%97%e3%81%ae%e3%80%8c%e8%9
+	4%b5%e5%85%83%e3%81%ae%e8%a7%a3%e8%aa%ac%e4%bb%98%e3%81%8d-%e9%85%92%e8%82
+	%b4%e3%83%93%e3%83%a5%e3%83%83%e3%83%95/
+LOCATION:東京都中央区八重洲1-7-20八重洲口会館B1
+END:VEVENT
+BEGIN:VEVENT
+UID:l8iMuJkgXpLJ1Jigk2YSA
+SUMMARY:虎連坊秋葉原店の「蔵元の解説付き 酒肴ビュッフェ付き試飲会　2026早春の酒祭り Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+DESCRIPTION:**Description**\nOn 2026年2月21日（土）\n\n**Address**\n東京都千代田区外神田1-1
+	8-18BiTO AKIBA PLAZA 9F\n\n**Link**\nhttps://tokyo-sake-calendar.com/event
+	/%e8%99%8e%e9%80%a3%e5%9d%8a%e7%a7%8b%e8%91%89%e5%8e%9f%e5%ba%97%e3%81%ae%
+	e3%80%8c%e8%94%b5%e5%85%83%e3%81%ae%e8%a7%a3%e8%aa%ac%e4%bb%98%e3%81%8d-%e
+	9%85%92%e8%82%b4%e3%83%93%e3%83%a5%e3%83%83%e3%83%95/
+LOCATION:東京都千代田区外神田1-18-18BiTO AKIBA PLAZA 9F
+END:VEVENT
+BEGIN:VEVENT
+UID:lTtb_mB0nc5ThuEvlSNJo
+SUMMARY:【愛知の酒 ポップアップストア in 東京】恵比寿ガーデンプレイス時計広場 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+DESCRIPTION:**Description**\nOn 2026年2月22日（日）\n\n**Address**\n恵比寿ガーデンプレイス 時
+	計広場 YEBISU Marche内\n（東京都渋谷区恵比寿4-20）\n\n**Link**\nhttps://tokyo-sake-calend
+	ar.com/event/%e3%80%90%e6%84%9b%e7%9f%a5%e3%81%ae%e9%85%92-%e3%83%9d%e3%83
+	%83%e3%83%97%e3%82%a2%e3%83%83%e3%83%97%e3%82%b9%e3%83%88%e3%82%a2-in-%e6%
+	9d%b1%e4%ba%ac%e3%80%91%e6%81%b5%e6%af%94%e5%af%bf%e3%82%ac/
+LOCATION:恵比寿ガーデンプレイス 時計広場 YEBISU Marche内\, （東京都渋谷区恵比寿4-20）
+END:VEVENT
+BEGIN:VEVENT
+UID:koJyN6iYiN6Mq2CKej7jv
+SUMMARY:『日本酒の魅力再発見！ 江戸から続く酒蔵を巡る！』 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+DESCRIPTION:**Description**\nOn 2026年2月28日（土）\n\n**Address**\n福生市、相模原市\n\n*
+	*Link**\nhttps://tokyo-sake-calendar.com/event/%e3%80%8e%e6%97%a5%e6%9c%ac
+	%e9%85%92%e3%81%ae%e9%ad%85%e5%8a%9b%e5%86%8d%e7%99%ba%e8%a6%8b%ef%bc%81-%
+	e6%b1%9f%e6%88%b8%e3%81%8b%e3%82%89%e7%b6%9a%e3%81%8f%e9%85%92%e8%94%b5%e3
+	%82%92%e5%b7%a1%e3%82%8b/
+LOCATION:福生市、相模原市
+END:VEVENT
+BEGIN:VEVENT
+UID:lC36F0xJFuVqEYzA3u8am
+SUMMARY:燗酒フェス 2026 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260302
+DESCRIPTION:**Description**\nRuns from 2026年2月28日（土） to 2026年3月1日（日）\n\n**A
+	ddress**\n埼玉県所沢市東所沢和田三丁目31番地3\n\n**Link**\nhttps://tokyo-sake-calendar.com
+	/event/%e7%87%97%e9%85%92%e3%83%95%e3%82%a7%e3%82%b9-2026/
+LOCATION:埼玉県所沢市東所沢和田三丁目31番地3
+END:VEVENT
+BEGIN:VEVENT
+UID:RQ9ueL4vGR4avD7GE1ZOz
+SUMMARY:日本酒と料理のペアリング体験 -2026年春編- ～春の日本酒と春の料理を楽しもう～ Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+DESCRIPTION:**Description**\nOn 2026年3月1日（日）\n\n**Address**\nサケアカデミー\n東京都文京
+	区小石川1-15-17 TN小石川ビル7F\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/%
+	e6%97%a5%e6%9c%ac%e9%85%92%e3%81%a8%e6%96%99%e7%90%86%e3%81%ae%e3%83%9a%e3
+	%82%a2%e3%83%aa%e3%83%b3%e3%82%b0%e4%bd%93%e9%a8%93-2026%e5%b9%b4%e6%98%a5
+	%e7%b7%a8-%ef%bd%9e%e6%98%a5%e3%81%ae%e6%97%a5/
+LOCATION:サケアカデミー\, 東京都文京区小石川1-15-17 TN小石川ビル7F
+END:VEVENT
+BEGIN:VEVENT
+UID:079AHSg9VJR84ceU2qGjZ
+SUMMARY:ゼロから学ぶ日本酒講座③  酒器で変わる、驚きの香りと味わい体験【30名限定】 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+DESCRIPTION:**Description**\nOn 2026年3月1日（日）\n\n**Address**\nサケアカデミー\n東京都文京
+	区小石川1-15-17 TN小石川ビル7F\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/%
+	e3%82%bc%e3%83%ad%e3%81%8b%e3%82%89%e5%ad%a6%e3%81%b6%e6%97%a5%e6%9c%ac%e9
+	%85%92%e8%ac%9b%e5%ba%a7%e2%91%a2-%e9%85%92%e5%99%a8%e3%81%a7%e5%a4%89%e3%
+	82%8f%e3%82%8b%e3%80%81%e9%a9%9a%e3%81%8d%e3%81%ae/
+LOCATION:サケアカデミー\, 東京都文京区小石川1-15-17 TN小石川ビル7F
+END:VEVENT
+BEGIN:VEVENT
+UID:5JbicR_wX_g1C4TB3J_eK
+SUMMARY:＼北信州木島平村 銘酒試飲会／ Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260310
+DESCRIPTION:**Description**\nRuns from 2026年3月8日（日） to 2026年3月9日（月）\n\n**Ad
+	dress**\n東京 銀座ＮＡＧＡＮＯ ２Ｆイベントスペース\n東京都中央区銀座5丁目6-5 NOCOビル\nhttps://maps.app.g
+	oo.gl/XSJtYW2y58AfPY7CA\n\n**Link**\nhttps://tokyo-sake-calendar.com/event
+	/%ef%bc%bc%e5%8c%97%e4%bf%a1%e5%b7%9e%e6%9c%a8%e5%b3%b6%e5%b9%b3%e6%9d%91-
+	%e9%8a%98%e9%85%92%e8%a9%a6%e9%a3%b2%e4%bc%9a%ef%bc%8f/
+LOCATION:東京 銀座ＮＡＧＡＮＯ ２Ｆイベントスペース\, 東京都中央区銀座5丁目6-5 NOCOビル\, https://maps.app.
+	goo.gl/XSJtYW2y58AfPY7CA
+END:VEVENT
+BEGIN:VEVENT
+UID:tEi-hVgu5wdERco6IkuSZ
+SUMMARY:【U30限定】一蔵一会［Vol.10］水口酒造「グローカル×日本酒」 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+DESCRIPTION:**Description**\nOn 2026年3月14日（土）\n\n**Address**\n千代田区霞が関3丁目2-6
+	 東京倶楽部ビルディング 3F\n和食日和 おさけと 霞ヶ関\n\n**Link**\nhttps://tokyo-sake-calendar.co
+	m/event/%e3%80%90u30%e9%99%90%e5%ae%9a%e3%80%91%e4%b8%80%e8%94%b5%e4%b8%80
+	%e4%bc%9a%ef%bc%bbvol-10%ef%bc%bd%e6%b0%b4%e5%8f%a3%e9%85%92%e9%80%a0%e3%8
+	0%8c%e3%82%b0%e3%83%ad%e3%83%bc%e3%82%ab%e3%83%abx/
+LOCATION:千代田区霞が関3丁目2-6 東京倶楽部ビルディング 3F\, 和食日和 おさけと 霞ヶ関
+END:VEVENT
+BEGIN:VEVENT
+UID:Jg2k0spncaLXqx57pu4GZ
+SUMMARY:武相荘×酒舗まさるや「蔵の会」第４回　山形「出羽桜酒造」 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+DESCRIPTION:**Description**\nOn 2026年3月22日（日）\n\n**Address**\n〒195-0053　東京都
+	町田市能ヶ谷７丁目３番２号\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/%e6%ad%a6
+	%e7%9b%b8%e8%8d%98x%e9%85%92%e8%88%97%e3%81%be%e3%81%95%e3%82%8b%e3%82%84%
+	e3%80%8c%e8%94%b5%e3%81%ae%e4%bc%9a%e3%80%8d%e7%ac%ac%ef%bc%94%e5%9b%9e%e3
+	%80%80%e5%b1%b1%e5%bd%a2%e3%80%8c/
+LOCATION:〒195-0053　東京都町田市能ヶ谷７丁目３番２号
+END:VEVENT
+BEGIN:VEVENT
+UID:Gc4kGTxY90a6AnrpCRyVI
+SUMMARY:3/27-3/29 SAKE PARK第6弾！有名蔵が東京ミッドタウンへ集結！ Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260330
+DESCRIPTION:**Description**\nRuns from 2026年3月27日（金） to 2026年3月29日（日）\n\n**
+	Address**\n東京都港区赤坂９丁目７ー１ 東京ミッドタウン キャノピー・スクエア\n\n**Link**\nhttps://tokyo-sa
+	ke-calendar.com/event/3-27-3-29-sake-park%e7%ac%ac6%e5%bc%be%ef%bc%81%e6%9
+	c%89%e5%90%8d%e8%94%b5%e3%81%8c%e6%9d%b1%e4%ba%ac%e3%83%9f%e3%83%83%e3%83%
+	89%e3%82%bf%e3%82%a6%e3%83%b3%e3%81%b8%e9%9b%86%e7%b5%90%ef%bc%81/
+LOCATION:東京都港区赤坂９丁目７ー１ 東京ミッドタウン キャノピー・スクエア
+END:VEVENT
+BEGIN:VEVENT
+UID:2kdC0jzYf6qvKfWNBPxdp
+SUMMARY:ふるさとグルメてらす〜東北まつり〜 Sake Event
+DTSTAMP:20260216T125705Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+DESCRIPTION:**Description**\nRuns from 2026年4月18日（土） to 2026年4月19日（日）\n\n**
+	Address**\n御徒町南口駅前広場（おかちまちパンダ広場）\n東京都台東区上野3丁目26\nhttps://goo.gl/maps/tXZGg
+	6SfLyGAjDyL6\n\n**Link**\nhttps://tokyo-sake-calendar.com/event/%e3%81%b5%
+	e3%82%8b%e3%81%95%e3%81%a8%e3%82%b0%e3%83%ab%e3%83%a1%e3%81%a6%e3%82%89%e3
+	%81%99%e3%80%9c%e6%9d%b1%e5%8c%97%e3%81%be%e3%81%a4%e3%82%8a%e3%80%9c/
+LOCATION:御徒町南口駅前広場（おかちまちパンダ広場）\, 東京都台東区上野3丁目26\, https://goo.gl/maps/tXZGg6
+	SfLyGAjDyL6
+END:VEVENT
+END:VCALENDAR
+
